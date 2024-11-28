@@ -1,26 +1,26 @@
 ---
 import Button from "../components/Button.astro";
 import FormField from "../components/FormField.astro";
+import TextInput from "../components/TextInput.astro";
 import Layout from "../layouts/Layout.astro";
 ---
 
 <Layout title="Login | StreamParish">
   <form class="login-form">
-    <label class="form-field">
-      Email
-      <input type="email" id="email" name="email" />
-    </label>
-    <label class="form-field">
-      Password
-      <input type="password" id="password" name="password" />
-    </label>
-    <Button type="submit" class:list="">Login</Button>
+    <TextInput labelContent="Email" name="email" inputType="email" />
+    <TextInput labelContent="Password" name="password" inputType="password" />
+
+    <Button as={"button"} type="submit" class="button">Login</Button>
   </form>
 </Layout>
 
 <style>
   body {
     background-color: #000;
+  }
+
+  .button {
+    width: 100%;
   }
 
   .form-field input {
