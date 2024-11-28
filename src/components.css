@@ -1,0 +1,30 @@
+/** COMPONENTS **/
+.btn {
+	display: inline-block;
+	border: 1px solid var(--primary);
+	padding: 15px 20px;
+
+	background-color: var(--primary);
+	color: var(--text-color);
+
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 1.5rem;
+}
+
+.btn:hover {
+	filter: brightness(0.7);
+}
+
+.form-field {
+	margin-bottom: 10px;
+}
+
+.form-field input {
+	display: block;
+	width: 100%;
+	padding: 10px;
+	border: 1px solid var(--primary);
+	border-radius: 2px;
+}
