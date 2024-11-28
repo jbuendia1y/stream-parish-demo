@@ -1,0 +1,38 @@
+---
+interface Props {
+  href?: string;
+  type?: "button" | "submit";
+}
+---
+
+{
+  Astro.props.href ? (
+    <a href={Astro.props.href} class="btn">
+      <slot />
+    </a>
+  ) : (
+    <button type={Astro.props.type} class="btn">
+      <slot />
+    </button>
+  )
+}
+
+<style>
+  .btn {
+    display: inline-block;
+    border: 1px solid var(--primary);
+    padding: 15px 20px;
+
+    background-color: var(--primary);
+    color: var(--text-color);
+
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 1.5rem;
+  }
+
+  .btn:hover {
+    filter: brightness(0.7);
+  }
+</style>

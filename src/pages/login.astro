@@ -1,0 +1,49 @@
+---
+import Button from "../components/Button.astro";
+import FormField from "../components/FormField.astro";
+import Layout from "../layouts/Layout.astro";
+---
+
+<Layout title="Login | StreamParish">
+  <form class="login-form">
+    <label class="form-field">
+      Email
+      <input type="email" id="email" name="email" />
+    </label>
+    <label class="form-field">
+      Password
+      <input type="password" id="password" name="password" />
+    </label>
+    <Button type="submit" class:list="">Login</Button>
+  </form>
+</Layout>
+
+<style>
+  body {
+    background-color: #000;
+  }
+
+  .form-field input {
+    display: block;
+    width: 100%;
+  }
+
+  .login-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 400px;
+    width: 90%;
+    min-height: 100vh;
+    margin: 0 auto;
+
+    background-color: #353337c7;
+  }
+
+  @media (width >= 1024px) {
+    .login-form {
+      max-width: 550px;
+    }
+  }
+</style>
