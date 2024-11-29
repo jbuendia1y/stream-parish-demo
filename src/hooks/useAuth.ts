@@ -1,6 +1,7 @@
-import { useState } from "react";
+import { useContext } from "react";
+import { AuthContext } from "../contexts/auth.context";
 
 export const useAuth = () => {
-  const [user, setUser] = useState(true);
-  return { user };
+  const ctx = useContext(AuthContext);
+  return ctx;
 };
