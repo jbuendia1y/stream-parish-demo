@@ -6,9 +6,10 @@ import {
   TextField,
   Typography,
 } from "@mui/material";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { FcGoogle } from "react-icons/fc";
 import { useForm } from "react-hook-form";
+import { useAuth } from "../hooks/useAuth";
 
 interface LoginForm {
   email: string;
@@ -16,10 +17,20 @@ interface LoginForm {
 }
 
 export default function Login() {
-  const { register, formState, handleSubmit } = useForm<LoginForm>();
+  const { login } = useAuth();
+  const navigate = useNavigate();
+  const { register, formState, handleSubmit, setError } = useForm<LoginForm>();
 
-  const OnSubmit = (data: LoginForm) => {
-    console.log(data);
+  const OnSubmit = async (data: LoginForm) => {
+    try {
+      await login(data.email, data.password);
+      navigate("/home");
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    } catch (e: any) {
+      console.error(e);
+      setError("email", { message: "Incorrect email" });
+      setError("password", { message: "Incorrect password" });
+    }
   };
 
   return (
@@ -55,7 +66,7 @@ export default function Login() {
           maxWidth="sm"
           onSubmit={handleSubmit(OnSubmit)}
         >
-          <Stack spacing="25px">
+          <Stack spacing="10px">
             <TextField
               label="Email"
               type="email"
@@ -70,24 +81,55 @@ export default function Login() {
               {...register("password", { required: true })}
               error={!!formState.errors.password}
             />
+            <Typography
+              component={Link}
+              to="/forgot-password"
+              display="block"
+              textAlign="right"
+            >
+              ¿Olvidaste tu contraseña?
+            </Typography>
             <Button type="submit" variant="contained" fullWidth size="large">
               Iniciar sessión
             </Button>
           </Stack>
           <Typography
-            component={Link}
-            to="/forgot-password"
+            component="p"
             display="block"
             marginY="20px"
             textAlign="center"
+            sx={{
+              position: "relative",
+              ":before": {
+                position: "absolute",
+                top: "calc(50% - 1px)",
+                left: 0,
+                content: "''",
+
+                width: "calc(50% - 30px)",
+                height: "1px",
+                backgroundColor: (theme) => theme.palette.common.black,
+              },
+              ":after": {
+                position: "absolute",
+                top: "calc(50% - 1px)",
+                right: 0,
+                content: "''",
+
+                width: "calc(50% - 30px)",
+                height: "1px",
+                backgroundColor: (theme) => theme.palette.common.black,
+              },
+            }}
           >
-            ¿Olvidaste tu contraseña?
+            o
           </Typography>
           <Button
             type="button"
             variant="contained"
             size="large"
             fullWidth
+            sx={{ borderRadius: 10000 }}
             startIcon={<FcGoogle />}
           >
             Google

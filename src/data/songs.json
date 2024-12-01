@@ -1,0 +1,3790 @@
+[
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/07cebc34d49ff7a0f1ce21e4902ebbf3238f6788?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "single",
+      "id": "10FLjwfpbxLmW8c25Xyc2N",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27382ea2e9e1858aa012c57cd45",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0282ea2e9e1858aa012c57cd45",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485182ea2e9e1858aa012c57cd45",
+          "width": 64
+        }
+      ],
+      "name": "Die With A Smile",
+      "release_date": "2024-08-16",
+      "release_date_precision": "day",
+      "uri": "spotify:album:10FLjwfpbxLmW8c25Xyc2N",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          },
+          "id": "1HY2Jd0NmPuamShAr6KMms",
+          "name": "Lady Gaga",
+          "type": "artist",
+          "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          },
+          "id": "0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars",
+          "type": "artist",
+          "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "total_tracks": 1
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        "id": "1HY2Jd0NmPuamShAr6KMms",
+        "name": "Lady Gaga",
+        "type": "artist",
+        "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        "id": "0du5cEVh5yTK9QJze8zA0C",
+        "name": "Bruno Mars",
+        "type": "artist",
+        "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 1,
+    "duration_ms": 251667,
+    "external_ids": { "isrc": "USUM72409273" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    "id": "2plbrEY59IikOBgBGLjaoe",
+    "name": "Die With A Smile",
+    "popularity": 100,
+    "uri": "spotify:track:2plbrEY59IikOBgBGLjaoe"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/c653a3311fa966337dbcb8b727ebe02d5aa6d2df?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "single",
+      "id": "2IYQwwgxgOIn7t3iF6ufFD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ba60245b7725fdc3719027c0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ba60245b7725fdc3719027c0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ba60245b7725fdc3719027c0",
+          "width": 64
+        }
+      ],
+      "name": "APT.",
+      "release_date": "2024-10-18",
+      "release_date_precision": "day",
+      "uri": "spotify:album:2IYQwwgxgOIn7t3iF6ufFD",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+          },
+          "id": "3eVa5w3URK5duf6eyVDbu9",
+          "name": "ROSÉ",
+          "type": "artist",
+          "uri": "spotify:artist:3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          },
+          "id": "0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars",
+          "type": "artist",
+          "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "total_tracks": 1
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        "id": "3eVa5w3URK5duf6eyVDbu9",
+        "name": "ROSÉ",
+        "type": "artist",
+        "uri": "spotify:artist:3eVa5w3URK5duf6eyVDbu9"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        "id": "0du5cEVh5yTK9QJze8zA0C",
+        "name": "Bruno Mars",
+        "type": "artist",
+        "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 1,
+    "duration_ms": 169917,
+    "external_ids": { "isrc": "USAT22409172" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    "id": "5vNRhkKd0yEAg8suGBpjeY",
+    "name": "APT.",
+    "popularity": 98,
+    "uri": "spotify:track:5vNRhkKd0yEAg8suGBpjeY"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/930621584bcfcc9cba670fe73b9292b506447bfd?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "single",
+      "id": "3ZZlKPrWKSVI28zT3AGLQB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732aab4ea84f431ad7d92fecbb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022aab4ea84f431ad7d92fecbb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512aab4ea84f431ad7d92fecbb",
+          "width": 64
+        }
+      ],
+      "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+      "release_date": "2024-11-23",
+      "release_date_precision": "day",
+      "uri": "spotify:album:3ZZlKPrWKSVI28zT3AGLQB",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+          },
+          "id": "5j4HeCoUlzhfWtjAfM1acR",
+          "name": "Stromae",
+          "type": "artist",
+          "uri": "spotify:artist:5j4HeCoUlzhfWtjAfM1acR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+          },
+          "id": "6e3pZKXUxrPfnUPJ960Hd9",
+          "name": "Pomme",
+          "type": "artist",
+          "uri": "spotify:artist:6e3pZKXUxrPfnUPJ960Hd9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+          },
+          "id": "57nPqD7z62gDdq37US9XJR",
+          "name": "Arcane",
+          "type": "artist",
+          "uri": "spotify:artist:57nPqD7z62gDdq37US9XJR"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB"
+      },
+      "total_tracks": 1
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        },
+        "id": "5j4HeCoUlzhfWtjAfM1acR",
+        "name": "Stromae",
+        "type": "artist",
+        "uri": "spotify:artist:5j4HeCoUlzhfWtjAfM1acR"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        },
+        "id": "6e3pZKXUxrPfnUPJ960Hd9",
+        "name": "Pomme",
+        "type": "artist",
+        "uri": "spotify:artist:6e3pZKXUxrPfnUPJ960Hd9"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        "id": "57nPqD7z62gDdq37US9XJR",
+        "name": "Arcane",
+        "type": "artist",
+        "uri": "spotify:artist:57nPqD7z62gDdq37US9XJR"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 1,
+    "duration_ms": 147973,
+    "external_ids": { "isrc": "USA2P2459602" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
+    },
+    "id": "4lriIG2vNqwDWzOj2I9rtj",
+    "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+    "popularity": 84,
+    "uri": "spotify:track:4lriIG2vNqwDWzOj2I9rtj"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/ab0b3c71d54bad0316eb4439da8e5debf6f1db45?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "1Ss0ArMRr91m83mOgRBjSZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0209d6ed214f03fbb663e46531",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485109d6ed214f03fbb663e46531",
+          "width": 64
+        }
+      ],
+      "name": "GNX",
+      "release_date": "2024-11-21",
+      "release_date_precision": "day",
+      "uri": "spotify:album:1Ss0ArMRr91m83mOgRBjSZ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ"
+      },
+      "total_tracks": 12
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+        "name": "Kendrick Lamar",
+        "type": "artist",
+        "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        "id": "7tYKF4w9nC0nq9CsPZTHyP",
+        "name": "SZA",
+        "type": "artist",
+        "uri": "spotify:artist:7tYKF4w9nC0nq9CsPZTHyP"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 3,
+    "duration_ms": 177598,
+    "external_ids": { "isrc": "USUG12408496" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
+    },
+    "id": "2CGNAOSuO1MEFCbBRgUzjd",
+    "name": "luther (with sza)",
+    "popularity": 74,
+    "uri": "spotify:track:2CGNAOSuO1MEFCbBRgUzjd"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/2899f0275fc029d456d924a60ae6f747bda1ed80?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "7aJuG4TFXa2hmE4z1yxc3n",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0271d62ea7ea8a5be92d3c1f62",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485171d62ea7ea8a5be92d3c1f62",
+          "width": 64
+        }
+      ],
+      "name": "HIT ME HARD AND SOFT",
+      "release_date": "2024-05-17",
+      "release_date_precision": "day",
+      "uri": "spotify:album:7aJuG4TFXa2hmE4z1yxc3n",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          },
+          "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+          "name": "Billie Eilish",
+          "type": "artist",
+          "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "total_tracks": 10
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "name": "Billie Eilish",
+        "type": "artist",
+        "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 4,
+    "duration_ms": 210373,
+    "external_ids": { "isrc": "USUM72401994" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    "id": "6dOtVTDdiauQNBQEDOtlAB",
+    "name": "BIRDS OF A FEATHER",
+    "popularity": 97,
+    "uri": "spotify:track:6dOtVTDdiauQNBQEDOtlAB"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/aed073ed2859447c5b275cd7bace28302330b629?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": true,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "0hBRqPYPXhr1RkTDG3n4Mk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731dac3694b3289cd903cb3acf",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021dac3694b3289cd903cb3acf",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511dac3694b3289cd903cb3acf",
+          "width": 64
+        }
+      ],
+      "name": "The Secret of Us (Deluxe)",
+      "release_date": "2024-10-18",
+      "release_date_precision": "day",
+      "uri": "spotify:album:0hBRqPYPXhr1RkTDG3n4Mk",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          },
+          "id": "4tuJ0bMpJh08umKkEXKUI5",
+          "name": "Gracie Abrams",
+          "type": "artist",
+          "uri": "spotify:artist:4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "total_tracks": 20
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        },
+        "id": "4tuJ0bMpJh08umKkEXKUI5",
+        "name": "Gracie Abrams",
+        "type": "artist",
+        "uri": "spotify:artist:4tuJ0bMpJh08umKkEXKUI5"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 15,
+    "duration_ms": 166300,
+    "external_ids": { "isrc": "USUG12406903" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+    },
+    "id": "7ne4VBA60CxGM75vw0EYad",
+    "name": "That’s So True",
+    "popularity": 94,
+    "uri": "spotify:track:7ne4VBA60CxGM75vw0EYad"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/02687a01e9ec00f4e947f39e910c7e0c6fa83e10?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "15XcLhiVMlSOipUddTNDnr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f02c451189a709b9a952aaec",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f02c451189a709b9a952aaec",
+          "width": 64
+        }
+      ],
+      "name": "MUSE",
+      "release_date": "2024-07-19",
+      "release_date_precision": "day",
+      "uri": "spotify:album:15XcLhiVMlSOipUddTNDnr",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+          },
+          "id": "1oSPZhvZMIrWW5I41kPkkY",
+          "name": "Jimin",
+          "type": "artist",
+          "uri": "spotify:artist:1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "total_tracks": 7
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        },
+        "id": "1oSPZhvZMIrWW5I41kPkkY",
+        "name": "Jimin",
+        "type": "artist",
+        "uri": "spotify:artist:1oSPZhvZMIrWW5I41kPkkY"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 6,
+    "duration_ms": 170887,
+    "external_ids": { "isrc": "USA2P2431062" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
+    },
+    "id": "7tI8dRuH2Yc6RuoTjxo4dU",
+    "name": "Who",
+    "popularity": 92,
+    "uri": "spotify:track:7tI8dRuH2Yc6RuoTjxo4dU"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/6b1557cd25d543940a3decd85a7bf2bc136c51f8?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "61ulfFSmmxMhc2wCdmdMkN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024246e3158421f5abb75abc4f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514246e3158421f5abb75abc4f",
+          "width": 64
+        }
+      ],
+      "name": "Merry Christmas",
+      "release_date": "1994-10-28",
+      "release_date_precision": "day",
+      "uri": "spotify:album:61ulfFSmmxMhc2wCdmdMkN",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          },
+          "id": "4iHNK0tOyZPYnBU7nGAgpQ",
+          "name": "Mariah Carey",
+          "type": "artist",
+          "uri": "spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "total_tracks": 10
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        "id": "4iHNK0tOyZPYnBU7nGAgpQ",
+        "name": "Mariah Carey",
+        "type": "artist",
+        "uri": "spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 2,
+    "duration_ms": 241106,
+    "external_ids": { "isrc": "USSM19400325" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    "id": "0bYg9bo50gSsH3LtXe2SQn",
+    "name": "All I Want for Christmas Is You",
+    "popularity": 90,
+    "uri": "spotify:track:0bYg9bo50gSsH3LtXe2SQn"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/a4fa049c525e8dfe13a250e39c1cf7353a122e1b?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": true,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "0hvT3yIEysuuvkK73vgdcW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d9985092cd88bffd97653b58",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d9985092cd88bffd97653b58",
+          "width": 64
+        }
+      ],
+      "name": "GNX",
+      "release_date": "2024-11-22",
+      "release_date_precision": "day",
+      "uri": "spotify:album:0hvT3yIEysuuvkK73vgdcW",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "total_tracks": 12
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+        "name": "Kendrick Lamar",
+        "type": "artist",
+        "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
+        },
+        "id": "1jiZvw42D4oquLl24x2VWV",
+        "name": "Lefty Gunplay",
+        "type": "artist",
+        "uri": "spotify:artist:1jiZvw42D4oquLl24x2VWV"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 7,
+    "duration_ms": 220690,
+    "external_ids": { "isrc": "USUG12408493" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
+    },
+    "id": "0aB0v4027ukVziUGwVGYpG",
+    "name": "tv off (feat. lefty gunplay)",
+    "popularity": 88,
+    "uri": "spotify:track:0aB0v4027ukVziUGwVGYpG"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/7cb4f6fbd7ec470550d430dd3b057d8b8f110218?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": true,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "0hvT3yIEysuuvkK73vgdcW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d9985092cd88bffd97653b58",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d9985092cd88bffd97653b58",
+          "width": 64
+        }
+      ],
+      "name": "GNX",
+      "release_date": "2024-11-22",
+      "release_date_precision": "day",
+      "uri": "spotify:album:0hvT3yIEysuuvkK73vgdcW",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "total_tracks": 12
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+        "name": "Kendrick Lamar",
+        "type": "artist",
+        "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 2,
+    "duration_ms": 157992,
+    "external_ids": { "isrc": "USUG12408494" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
+    },
+    "id": "0nj9Bq5sHDiTxSHunhgkFb",
+    "name": "squabble up",
+    "popularity": 89,
+    "uri": "spotify:track:0nj9Bq5sHDiTxSHunhgkFb"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/5c6b42e86dba5ec9e8346a345b3a8822b2396d3f?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "single",
+      "id": "6egzU9NKfora01qaNbvwfZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f2d2adaa21ad616df6241e7d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f2d2adaa21ad616df6241e7d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f2d2adaa21ad616df6241e7d",
+          "width": 64
+        }
+      ],
+      "name": "LAST CHRISTMAS",
+      "release_date": "1984-11-29",
+      "release_date_precision": "day",
+      "uri": "spotify:album:6egzU9NKfora01qaNbvwfZ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+          },
+          "id": "5lpH0xAS4fVfLkACg9DAuM",
+          "name": "Wham!",
+          "type": "artist",
+          "uri": "spotify:artist:5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "total_tracks": 3
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        },
+        "id": "5lpH0xAS4fVfLkACg9DAuM",
+        "name": "Wham!",
+        "type": "artist",
+        "uri": "spotify:artist:5lpH0xAS4fVfLkACg9DAuM"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 1,
+    "duration_ms": 262960,
+    "external_ids": { "isrc": "GBBBM8400019" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    "id": "2FRnf9qhLbvw8fu4IBXx78",
+    "name": "Last Christmas",
+    "popularity": 86,
+    "uri": "spotify:track:2FRnf9qhLbvw8fu4IBXx78"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/365f6692c38093959d0bf3e67231d9589da667bb?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "single",
+      "id": "68CN2LzY8MoxO2udy2C22e",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e6065f209e0a01986206bd53",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e6065f209e0a01986206bd53",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e6065f209e0a01986206bd53",
+          "width": 64
+        }
+      ],
+      "name": "Sailor Song",
+      "release_date": "2024-07-26",
+      "release_date_precision": "day",
+      "uri": "spotify:album:68CN2LzY8MoxO2udy2C22e",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+          },
+          "id": "1iCnM8foFssWlPRLfAbIwo",
+          "name": "Gigi Perez",
+          "type": "artist",
+          "uri": "spotify:artist:1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
+      },
+      "total_tracks": 1
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        },
+        "id": "1iCnM8foFssWlPRLfAbIwo",
+        "name": "Gigi Perez",
+        "type": "artist",
+        "uri": "spotify:artist:1iCnM8foFssWlPRLfAbIwo"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 1,
+    "duration_ms": 211978,
+    "external_ids": { "isrc": "USHM92438095" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
+    },
+    "id": "2262bWmqomIaJXwCRHr13j",
+    "name": "Sailor Song",
+    "popularity": 94,
+    "uri": "spotify:track:2262bWmqomIaJXwCRHr13j"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/6612f9395f31bb118d7cd4b8ec87d8d473f43c2a?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": true,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "single",
+      "id": "60cQzWfmdg4hyDXrpW6kOA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b51d9a74d356d785cce9dea9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b51d9a74d356d785cce9dea9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b51d9a74d356d785cce9dea9",
+          "width": 64
+        }
+      ],
+      "name": "Tu Boda",
+      "release_date": "2024-09-26",
+      "release_date_precision": "day",
+      "uri": "spotify:album:60cQzWfmdg4hyDXrpW6kOA",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+          },
+          "id": "3l9G1G9MxH6DaRhwLklaf5",
+          "name": "Oscar Maydon",
+          "type": "artist",
+          "uri": "spotify:artist:3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          },
+          "id": "0ys2OFYzWYB5hRDLCsBqxt",
+          "name": "Fuerza Regida",
+          "type": "artist",
+          "uri": "spotify:artist:0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/60cQzWfmdg4hyDXrpW6kOA"
+      },
+      "total_tracks": 1
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        "id": "3l9G1G9MxH6DaRhwLklaf5",
+        "name": "Oscar Maydon",
+        "type": "artist",
+        "uri": "spotify:artist:3l9G1G9MxH6DaRhwLklaf5"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        "id": "0ys2OFYzWYB5hRDLCsBqxt",
+        "name": "Fuerza Regida",
+        "type": "artist",
+        "uri": "spotify:artist:0ys2OFYzWYB5hRDLCsBqxt"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 1,
+    "duration_ms": 225880,
+    "external_ids": { "isrc": "QZ9QQ2400535" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6"
+    },
+    "id": "1cOboCuWYI2osTOfolMRS6",
+    "name": "Tu Boda",
+    "popularity": 93,
+    "uri": "spotify:track:1cOboCuWYI2osTOfolMRS6"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/54d7ea8f32570781d9fbcf7ec2881d3ea0e494de?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "34wa3zf2prXFMk47t9zHFG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737845f74d6db14b400fa61cd3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027845f74d6db14b400fa61cd3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517845f74d6db14b400fa61cd3",
+          "width": 64
+        }
+      ],
+      "name": "Merry Christmas From Brenda Lee",
+      "release_date": "1964-10-19",
+      "release_date_precision": "day",
+      "uri": "spotify:album:34wa3zf2prXFMk47t9zHFG",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+          },
+          "id": "4cPHsZM98sKzmV26wlwD2W",
+          "name": "Brenda Lee",
+          "type": "artist",
+          "uri": "spotify:artist:4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
+      },
+      "total_tracks": 12
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        },
+        "id": "4cPHsZM98sKzmV26wlwD2W",
+        "name": "Brenda Lee",
+        "type": "artist",
+        "uri": "spotify:artist:4cPHsZM98sKzmV26wlwD2W"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 1,
+    "duration_ms": 126266,
+    "external_ids": { "isrc": "USMC15848998" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+    },
+    "id": "2EjXfH91m7f8HiJN1yQg97",
+    "name": "Rockin' Around The Christmas Tree",
+    "popularity": 87,
+    "uri": "spotify:track:2EjXfH91m7f8HiJN1yQg97"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/d22a8b6cfa111894b888978faff499265a4e06ef?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "single",
+      "id": "4sfwHIxFU5kcDqSdMENQsy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27316ba2a3622bd0d0d985e3234",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0216ba2a3622bd0d0d985e3234",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485116ba2a3622bd0d0d985e3234",
+          "width": 64
+        }
+      ],
+      "name": "Winter Ahead (with PARK HYO SHIN)",
+      "release_date": "2024-11-29",
+      "release_date_precision": "day",
+      "uri": "spotify:album:4sfwHIxFU5kcDqSdMENQsy",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+          },
+          "id": "3JsHnjpbhX4SnySpvpa9DK",
+          "name": "V",
+          "type": "artist",
+          "uri": "spotify:artist:3JsHnjpbhX4SnySpvpa9DK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
+          },
+          "id": "57htMBtzpppc1yoXgjbslj",
+          "name": "Park Hyo Shin",
+          "type": "artist",
+          "uri": "spotify:artist:57htMBtzpppc1yoXgjbslj"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy"
+      },
+      "total_tracks": 1
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        },
+        "id": "3JsHnjpbhX4SnySpvpa9DK",
+        "name": "V",
+        "type": "artist",
+        "uri": "spotify:artist:3JsHnjpbhX4SnySpvpa9DK"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
+        },
+        "id": "57htMBtzpppc1yoXgjbslj",
+        "name": "Park Hyo Shin",
+        "type": "artist",
+        "uri": "spotify:artist:57htMBtzpppc1yoXgjbslj"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 1,
+    "duration_ms": 234895,
+    "external_ids": { "isrc": "USA2P2467826" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
+    },
+    "id": "7G7mSV4BebkoHWwKTDvXu9",
+    "name": "Winter Ahead (with PARK HYO SHIN)",
+    "popularity": 0,
+    "uri": "spotify:track:7G7mSV4BebkoHWwKTDvXu9"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/3017b48112a4dae32b4bc12c9c33868779390103?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "3nRmQ70bczWCLWyj1aRbt6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27302dd46d1f82ce19b5927b269",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0202dd46d1f82ce19b5927b269",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485102dd46d1f82ce19b5927b269",
+          "width": 64
+        }
+      ],
+      "name": "Happy - :') (Remixes)",
+      "release_date": "2024-11-19",
+      "release_date_precision": "day",
+      "uri": "spotify:album:3nRmQ70bczWCLWyj1aRbt6",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+          },
+          "id": "5vV3bFXnN6D6N3Nj4xRvaV",
+          "name": "Jin",
+          "type": "artist",
+          "uri": "spotify:artist:5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
+      },
+      "total_tracks": 8
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        },
+        "id": "5vV3bFXnN6D6N3Nj4xRvaV",
+        "name": "Jin",
+        "type": "artist",
+        "uri": "spotify:artist:5vV3bFXnN6D6N3Nj4xRvaV"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 1,
+    "duration_ms": 151646,
+    "external_ids": { "isrc": "USA2P2461990" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
+    },
+    "id": "50zAEIE4B1QqhPjRMK2Xmh",
+    "name": "Running Wild",
+    "popularity": 79,
+    "uri": "spotify:track:50zAEIE4B1QqhPjRMK2Xmh"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/fb272d8c77cf5edc5fb3bb9656c5637c531567ea?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": true,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "3iPSVi54hsacKKl1xIR2eH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fd8d7a8d96871e791cb1f626",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fd8d7a8d96871e791cb1f626",
+          "width": 64
+        }
+      ],
+      "name": "Short n' Sweet",
+      "release_date": "2024-08-23",
+      "release_date_precision": "day",
+      "uri": "spotify:album:3iPSVi54hsacKKl1xIR2eH",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          },
+          "id": "74KM79TiuVKeVCqs8QtB0B",
+          "name": "Sabrina Carpenter",
+          "type": "artist",
+          "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "total_tracks": 12
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        },
+        "id": "74KM79TiuVKeVCqs8QtB0B",
+        "name": "Sabrina Carpenter",
+        "type": "artist",
+        "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 7,
+    "duration_ms": 175459,
+    "external_ids": { "isrc": "USUM72403305" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
+    },
+    "id": "2HRqTpkrJO5ggZyyK6NPWz",
+    "name": "Espresso",
+    "popularity": 88,
+    "uri": "spotify:track:2HRqTpkrJO5ggZyyK6NPWz"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/ab7acea907be9cbe03bba9964765aa889f53d238?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "7aJuG4TFXa2hmE4z1yxc3n",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0271d62ea7ea8a5be92d3c1f62",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485171d62ea7ea8a5be92d3c1f62",
+          "width": 64
+        }
+      ],
+      "name": "HIT ME HARD AND SOFT",
+      "release_date": "2024-05-17",
+      "release_date_precision": "day",
+      "uri": "spotify:album:7aJuG4TFXa2hmE4z1yxc3n",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          },
+          "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+          "name": "Billie Eilish",
+          "type": "artist",
+          "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "total_tracks": 10
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "name": "Billie Eilish",
+        "type": "artist",
+        "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 5,
+    "duration_ms": 261466,
+    "external_ids": { "isrc": "USUM72401993" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
+    },
+    "id": "3QaPy1KgI7nu9FJEQUgn6h",
+    "name": "WILDFLOWER",
+    "popularity": 93,
+    "uri": "spotify:track:3QaPy1KgI7nu9FJEQUgn6h"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/ee99648cba9f27d685ea8ff59a3d862e53db641f?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": true,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "single",
+      "id": "2IRxVVqbSbqHJo8Zx50LYn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27394f662ef3b5677376d8a78d4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0294f662ef3b5677376d8a78d4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485194f662ef3b5677376d8a78d4",
+          "width": 64
+        }
+      ],
+      "name": "Timeless",
+      "release_date": "2024-09-27",
+      "release_date_precision": "day",
+      "uri": "spotify:album:2IRxVVqbSbqHJo8Zx50LYn",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+          },
+          "id": "699OTQXzgjhIYAHMy9RyPD",
+          "name": "Playboi Carti",
+          "type": "artist",
+          "uri": "spotify:artist:699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
+      },
+      "total_tracks": 1
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "name": "The Weeknd",
+        "type": "artist",
+        "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        "id": "699OTQXzgjhIYAHMy9RyPD",
+        "name": "Playboi Carti",
+        "type": "artist",
+        "uri": "spotify:artist:699OTQXzgjhIYAHMy9RyPD"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 1,
+    "duration_ms": 256000,
+    "external_ids": { "isrc": "USUG12406536" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
+    },
+    "id": "1Es7AUAhQvapIcoh3qMKDL",
+    "name": "Timeless (with Playboi Carti)",
+    "popularity": 92,
+    "uri": "spotify:track:1Es7AUAhQvapIcoh3qMKDL"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/b71b2040e08650ae44fe989d81382f572009ab7c?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "3iPSVi54hsacKKl1xIR2eH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fd8d7a8d96871e791cb1f626",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fd8d7a8d96871e791cb1f626",
+          "width": 64
+        }
+      ],
+      "name": "Short n' Sweet",
+      "release_date": "2024-08-23",
+      "release_date_precision": "day",
+      "uri": "spotify:album:3iPSVi54hsacKKl1xIR2eH",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          },
+          "id": "74KM79TiuVKeVCqs8QtB0B",
+          "name": "Sabrina Carpenter",
+          "type": "artist",
+          "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "total_tracks": 12
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        },
+        "id": "74KM79TiuVKeVCqs8QtB0B",
+        "name": "Sabrina Carpenter",
+        "type": "artist",
+        "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 1,
+    "duration_ms": 157279,
+    "external_ids": { "isrc": "USUM72404100" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
+    },
+    "id": "5G2f63n7IPVPPjfNIGih7Q",
+    "name": "Taste",
+    "popularity": 93,
+    "uri": "spotify:track:5G2f63n7IPVPPjfNIGih7Q"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/d3ce690c18d47b8029f90d45b4d8a53ab8642776?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": true,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "0aX0UXrHG2ceYIxTQcqJdA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ed432d7df981360768dd5856",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ed432d7df981360768dd5856",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ed432d7df981360768dd5856",
+          "width": 64
+        }
+      ],
+      "name": "Cosa Nuestra",
+      "release_date": "2024-11-15",
+      "release_date_precision": "day",
+      "uri": "spotify:album:0aX0UXrHG2ceYIxTQcqJdA",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          },
+          "id": "1mcTU81TzQhprhouKaTkpq",
+          "name": "Rauw Alejandro",
+          "type": "artist",
+          "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "total_tracks": 18
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        "id": "1mcTU81TzQhprhouKaTkpq",
+        "name": "Rauw Alejandro",
+        "type": "artist",
+        "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
+        "type": "artist",
+        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 3,
+    "duration_ms": 191018,
+    "external_ids": { "isrc": "USQX92404984" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
+    },
+    "id": "0l0vcZMU7AOeQmUIREoI2U",
+    "name": "Qué Pasaría...",
+    "popularity": 87,
+    "uri": "spotify:track:0l0vcZMU7AOeQmUIREoI2U"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/9be2daba9c4c482c614bcf955494e783732be764?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "single",
+      "id": "3wivyOdotHWZ9dcuXMjPKT",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fd56f3c7a294f5cfe51c7b17",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fd56f3c7a294f5cfe51c7b17",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fd56f3c7a294f5cfe51c7b17",
+          "width": 64
+        }
+      ],
+      "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
+      "release_date": "1957-12-02",
+      "release_date_precision": "day",
+      "uri": "spotify:album:3wivyOdotHWZ9dcuXMjPKT",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+          },
+          "id": "38EmEgXkgK51MT2tPY0EoC",
+          "name": "Bobby Helms",
+          "type": "artist",
+          "uri": "spotify:artist:38EmEgXkgK51MT2tPY0EoC"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
+      },
+      "total_tracks": 2
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+        },
+        "id": "38EmEgXkgK51MT2tPY0EoC",
+        "name": "Bobby Helms",
+        "type": "artist",
+        "uri": "spotify:artist:38EmEgXkgK51MT2tPY0EoC"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 1,
+    "duration_ms": 130973,
+    "external_ids": { "isrc": "USMC15746480" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+    },
+    "id": "7vQbuQcyTflfCIOu3Uzzya",
+    "name": "Jingle Bell Rock",
+    "popularity": 83,
+    "uri": "spotify:track:7vQbuQcyTflfCIOu3Uzzya"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/e213f23e6fe5938299eebbe364d06c1682a6619f?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "168CdR21lfn0TTyw1Pkdcm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cc04ff3e70e146ba9abacf40",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cc04ff3e70e146ba9abacf40",
+          "width": 64
+        }
+      ],
+      "name": "Fireworks & Rollerblades",
+      "release_date": "2024-04-05",
+      "release_date_precision": "day",
+      "uri": "spotify:album:168CdR21lfn0TTyw1Pkdcm",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          },
+          "id": "22wbnEMDvgVIAGdFeek6ET",
+          "name": "Benson Boone",
+          "type": "artist",
+          "uri": "spotify:artist:22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "total_tracks": 15
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        },
+        "id": "22wbnEMDvgVIAGdFeek6ET",
+        "name": "Benson Boone",
+        "type": "artist",
+        "uri": "spotify:artist:22wbnEMDvgVIAGdFeek6ET"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 4,
+    "duration_ms": 180304,
+    "external_ids": { "isrc": "USWB12307016" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
+    },
+    "id": "3xkHsmpQCBMytMJNiDf3Ii",
+    "name": "Beautiful Things",
+    "popularity": 89,
+    "uri": "spotify:track:3xkHsmpQCBMytMJNiDf3Ii"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/c32614ea42a2331dda84e439bd438be7f15b8c70?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "single",
+      "id": "1WAjjRMfZjEXtB0lQrAw6Q",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0291b4bc7c88d91a42e0f3a8b7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485191b4bc7c88d91a42e0f3a8b7",
+          "width": 64
+        }
+      ],
+      "name": "Good Luck, Babe!",
+      "release_date": "2024-04-05",
+      "release_date_precision": "day",
+      "uri": "spotify:album:1WAjjRMfZjEXtB0lQrAw6Q",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          },
+          "id": "7GlBOeep6PqTfFi59PTUUN",
+          "name": "Chappell Roan",
+          "type": "artist",
+          "uri": "spotify:artist:7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "total_tracks": 1
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        },
+        "id": "7GlBOeep6PqTfFi59PTUUN",
+        "name": "Chappell Roan",
+        "type": "artist",
+        "uri": "spotify:artist:7GlBOeep6PqTfFi59PTUUN"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 1,
+    "duration_ms": 218423,
+    "external_ids": { "isrc": "USUG12401967" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    "id": "0WbMK4wrZ1wFSty9F7FCgu",
+    "name": "Good Luck, Babe!",
+    "popularity": 93,
+    "uri": "spotify:track:0WbMK4wrZ1wFSty9F7FCgu"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/7fdba01dab82f27e922b640e4801e99ee71f3163?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "single",
+      "id": "27MNgBEnLCKoafz1g2Zu97",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a1db745e63940bc06985dea5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a1db745e63940bc06985dea5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a1db745e63940bc06985dea5",
+          "width": 64
+        }
+      ],
+      "name": "Santa Tell Me",
+      "release_date": "2014-11-24",
+      "release_date_precision": "day",
+      "uri": "spotify:album:27MNgBEnLCKoafz1g2Zu97",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
+      },
+      "total_tracks": 1
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "type": "artist",
+        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 1,
+    "duration_ms": 204093,
+    "external_ids": { "isrc": "USUM71417401" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+    },
+    "id": "0lizgQ7Qw35od7CYaoMBZb",
+    "name": "Santa Tell Me",
+    "popularity": 86,
+    "uri": "spotify:track:0lizgQ7Qw35od7CYaoMBZb"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/c5606333df5e8195ea096c25d15c7c910eaf09b6?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "single",
+      "id": "5ylbxH7EqpsmHZCRuiYewS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273491678beaffcefac517a699e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02491678beaffcefac517a699e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851491678beaffcefac517a699e",
+          "width": 64
+        }
+      ],
+      "name": "Si Antes Te Hubiera Conocido",
+      "release_date": "2024-06-21",
+      "release_date_precision": "day",
+      "uri": "spotify:album:5ylbxH7EqpsmHZCRuiYewS",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          },
+          "id": "790FomKkXshlbRYZFtlgla",
+          "name": "KAROL G",
+          "type": "artist",
+          "uri": "spotify:artist:790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
+      },
+      "total_tracks": 1
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        "id": "790FomKkXshlbRYZFtlgla",
+        "name": "KAROL G",
+        "type": "artist",
+        "uri": "spotify:artist:790FomKkXshlbRYZFtlgla"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 1,
+    "duration_ms": 195824,
+    "external_ids": { "isrc": "USUG12400968" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
+    },
+    "id": "6WatFBLVB0x077xWeoVc2k",
+    "name": "Si Antes Te Hubiera Conocido",
+    "popularity": 93,
+    "uri": "spotify:track:6WatFBLVB0x077xWeoVc2k"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/5bf65f7c59ff12b923cee6ef29bf419525c01c9c?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "0aX0UXrHG2ceYIxTQcqJdA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ed432d7df981360768dd5856",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ed432d7df981360768dd5856",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ed432d7df981360768dd5856",
+          "width": 64
+        }
+      ],
+      "name": "Cosa Nuestra",
+      "release_date": "2024-11-15",
+      "release_date_precision": "day",
+      "uri": "spotify:album:0aX0UXrHG2ceYIxTQcqJdA",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          },
+          "id": "1mcTU81TzQhprhouKaTkpq",
+          "name": "Rauw Alejandro",
+          "type": "artist",
+          "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "total_tracks": 18
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        "id": "1mcTU81TzQhprhouKaTkpq",
+        "name": "Rauw Alejandro",
+        "type": "artist",
+        "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        "id": "5lwmRuXgjX8xIwlnauTZIP",
+        "name": "Romeo Santos",
+        "type": "artist",
+        "uri": "spotify:artist:5lwmRuXgjX8xIwlnauTZIP"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 12,
+    "duration_ms": 206066,
+    "external_ids": { "isrc": "USQX92403929" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9"
+    },
+    "id": "1YYfyJ2yCvGFCxwjsIqEK9",
+    "name": "Khé?",
+    "popularity": 84,
+    "uri": "spotify:track:1YYfyJ2yCvGFCxwjsIqEK9"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/a936030efc27a4fc52d8c42b20d03ca4cab30836?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "2vcGYJcPfXUmCdcXXqqukg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d1410c1372fab1e516328fa8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d1410c1372fab1e516328fa8",
+          "width": 64
+        }
+      ],
+      "name": "Everyday Is Christmas (Deluxe Edition)",
+      "release_date": "2018-11-01",
+      "release_date_precision": "day",
+      "uri": "spotify:album:2vcGYJcPfXUmCdcXXqqukg",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          },
+          "id": "5WUlDfRSoLAfcVSX1WnrxN",
+          "name": "Sia",
+          "type": "artist",
+          "uri": "spotify:artist:5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+      },
+      "total_tracks": 13
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        "id": "5WUlDfRSoLAfcVSX1WnrxN",
+        "name": "Sia",
+        "type": "artist",
+        "uri": "spotify:artist:5WUlDfRSoLAfcVSX1WnrxN"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 3,
+    "duration_ms": 165900,
+    "external_ids": { "isrc": "USAT21704212" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
+    },
+    "id": "7uoFMmxln0GPXQ0AcCBXRq",
+    "name": "Snowman",
+    "popularity": 85,
+    "uri": "spotify:track:7uoFMmxln0GPXQ0AcCBXRq"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/1ef163efdd3087a004a81dcacadb59a5bee41b4f?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "5I48ENiZiaZZSOpec6PdS5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736d88028a85c771f37374c8ea",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026d88028a85c771f37374c8ea",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516d88028a85c771f37374c8ea",
+          "width": 64
+        }
+      ],
+      "name": "A Winter Romance",
+      "release_date": "1959-01-01",
+      "release_date_precision": "day",
+      "uri": "spotify:album:5I48ENiZiaZZSOpec6PdS5",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+          },
+          "id": "49e4v89VmlDcFCMyDv9wQ9",
+          "name": "Dean Martin",
+          "type": "artist",
+          "uri": "spotify:artist:49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
+      },
+      "total_tracks": 12
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        },
+        "id": "49e4v89VmlDcFCMyDv9wQ9",
+        "name": "Dean Martin",
+        "type": "artist",
+        "uri": "spotify:artist:49e4v89VmlDcFCMyDv9wQ9"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 2,
+    "duration_ms": 117146,
+    "external_ids": { "isrc": "USCA25900140" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
+    },
+    "id": "2uFaJJtFpPDc5Pa95XzTvg",
+    "name": "Let It Snow! Let It Snow! Let It Snow!",
+    "popularity": 85,
+    "uri": "spotify:track:2uFaJJtFpPDc5Pa95XzTvg"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/51e51cc257e4186893b1923abf42fdaabbeeda37?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "7nacKlk586eLRBSIsrk9DB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731a0323cc23419360a34a3ace",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021a0323cc23419360a34a3ace",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511a0323cc23419360a34a3ace",
+          "width": 64
+        }
+      ],
+      "name": "I've Tried Everything But Therapy (Part 1)",
+      "release_date": "2023-09-15",
+      "release_date_precision": "day",
+      "uri": "spotify:album:7nacKlk586eLRBSIsrk9DB",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          },
+          "id": "33qOK5uJ8AR2xuQQAhHump",
+          "name": "Teddy Swims",
+          "type": "artist",
+          "uri": "spotify:artist:33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "total_tracks": 10
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        "id": "33qOK5uJ8AR2xuQQAhHump",
+        "name": "Teddy Swims",
+        "type": "artist",
+        "uri": "spotify:artist:33qOK5uJ8AR2xuQQAhHump"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 2,
+    "duration_ms": 210688,
+    "external_ids": { "isrc": "USWB12302315" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    "id": "17phhZDn6oGtzMe56NuWvj",
+    "name": "Lose Control",
+    "popularity": 89,
+    "uri": "spotify:track:17phhZDn6oGtzMe56NuWvj"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/d563a6c29fb2e51cb10b638ab4f2409f0bf9d398?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "4sD1qg4jwTZR4mvR4Iflk5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0217875a0610c23d8946454583",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485117875a0610c23d8946454583",
+          "width": 64
+        }
+      ],
+      "name": "Strange Trails",
+      "release_date": "2015-04-06",
+      "release_date_precision": "day",
+      "uri": "spotify:album:4sD1qg4jwTZR4mvR4Iflk5",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          },
+          "id": "6ltzsmQQbmdoHHbLZ4ZN25",
+          "name": "Lord Huron",
+          "type": "artist",
+          "uri": "spotify:artist:6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
+      },
+      "total_tracks": 14
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        },
+        "id": "6ltzsmQQbmdoHHbLZ4ZN25",
+        "name": "Lord Huron",
+        "type": "artist",
+        "uri": "spotify:artist:6ltzsmQQbmdoHHbLZ4ZN25"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 14,
+    "duration_ms": 208211,
+    "external_ids": { "isrc": "US53Q1200103" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
+    },
+    "id": "3hRV0jL3vUpRrcy398teAU",
+    "name": "The Night We Met",
+    "popularity": 88,
+    "uri": "spotify:track:3hRV0jL3vUpRrcy398teAU"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/64004ee75aee394686ed5c632d63dbfafd4ac88c?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": true,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "single",
+      "id": "2op3VYOlPBj8PhFxLEQ0Ol",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273369bcf083996da3c3b6d1f40",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02369bcf083996da3c3b6d1f40",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851369bcf083996da3c3b6d1f40",
+          "width": 64
+        }
+      ],
+      "name": "NADIE",
+      "release_date": "2024-11-21",
+      "release_date_precision": "day",
+      "uri": "spotify:album:2op3VYOlPBj8PhFxLEQ0Ol",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+          },
+          "id": "5eumcnUkdmGvkvcsx1WFNG",
+          "name": "Tito Double P",
+          "type": "artist",
+          "uri": "spotify:artist:5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2op3VYOlPBj8PhFxLEQ0Ol"
+      },
+      "total_tracks": 1
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        "id": "5eumcnUkdmGvkvcsx1WFNG",
+        "name": "Tito Double P",
+        "type": "artist",
+        "uri": "spotify:artist:5eumcnUkdmGvkvcsx1WFNG"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 1,
+    "duration_ms": 197031,
+    "external_ids": { "isrc": "QMDA72461862" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7sd6zMrgGpEa7NkQm9TRrg"
+    },
+    "id": "7sd6zMrgGpEa7NkQm9TRrg",
+    "name": "NADIE",
+    "popularity": 80,
+    "uri": "spotify:track:7sd6zMrgGpEa7NkQm9TRrg"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/81cc48794bef6a2832b50acff69a68ac331b35ff?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": true,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "3iPSVi54hsacKKl1xIR2eH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fd8d7a8d96871e791cb1f626",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fd8d7a8d96871e791cb1f626",
+          "width": 64
+        }
+      ],
+      "name": "Short n' Sweet",
+      "release_date": "2024-08-23",
+      "release_date_precision": "day",
+      "uri": "spotify:album:3iPSVi54hsacKKl1xIR2eH",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          },
+          "id": "74KM79TiuVKeVCqs8QtB0B",
+          "name": "Sabrina Carpenter",
+          "type": "artist",
+          "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "total_tracks": 12
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        },
+        "id": "74KM79TiuVKeVCqs8QtB0B",
+        "name": "Sabrina Carpenter",
+        "type": "artist",
+        "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 2,
+    "duration_ms": 186365,
+    "external_ids": { "isrc": "USUM72404101" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2tHwzyyOLoWSFqYNjeVMzj"
+    },
+    "id": "2tHwzyyOLoWSFqYNjeVMzj",
+    "name": "Please Please Please",
+    "popularity": 87,
+    "uri": "spotify:track:2tHwzyyOLoWSFqYNjeVMzj"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/853f441c5fc1b25ba88bb300c17119cde36da675?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "4dcJHxlOJwtyypL7sx1qch",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27398073965947f92f1641b8356",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0298073965947f92f1641b8356",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485198073965947f92f1641b8356",
+          "width": 64
+        }
+      ],
+      "name": "The Andy Williams Christmas Album",
+      "release_date": "1963-11-24",
+      "release_date_precision": "day",
+      "uri": "spotify:album:4dcJHxlOJwtyypL7sx1qch",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+          },
+          "id": "4sj6D0zlMOl25nprDJBiU9",
+          "name": "Andy Williams",
+          "type": "artist",
+          "uri": "spotify:artist:4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch"
+      },
+      "total_tracks": 12
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        },
+        "id": "4sj6D0zlMOl25nprDJBiU9",
+        "name": "Andy Williams",
+        "type": "artist",
+        "uri": "spotify:artist:4sj6D0zlMOl25nprDJBiU9"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 4,
+    "duration_ms": 151933,
+    "external_ids": { "isrc": "USSM16300086" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
+    },
+    "id": "5hslUAKq9I9CG2bAulFkHN",
+    "name": "It's the Most Wonderful Time of the Year",
+    "popularity": 83,
+    "uri": "spotify:track:5hslUAKq9I9CG2bAulFkHN"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/19fa10696b3e603fad23d9947832cc403873ff8e?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": true,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "0hvT3yIEysuuvkK73vgdcW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d9985092cd88bffd97653b58",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d9985092cd88bffd97653b58",
+          "width": 64
+        }
+      ],
+      "name": "GNX",
+      "release_date": "2024-11-22",
+      "release_date_precision": "day",
+      "uri": "spotify:album:0hvT3yIEysuuvkK73vgdcW",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "total_tracks": 12
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+        "name": "Kendrick Lamar",
+        "type": "artist",
+        "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 1,
+    "duration_ms": 317092,
+    "external_ids": { "isrc": "USUG12408495" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5gOfC9UzZQzTyShqPMrpjT"
+    },
+    "id": "5gOfC9UzZQzTyShqPMrpjT",
+    "name": "wacced out murals",
+    "popularity": 87,
+    "uri": "spotify:track:5gOfC9UzZQzTyShqPMrpjT"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/5a0318e6c43964786d22b9431af35490e96cff3d?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "58ufpQsJ1DS5kq4hhzQDiI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02926f43e7cce571e62720fd46",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851926f43e7cce571e62720fd46",
+          "width": 64
+        }
+      ],
+      "name": "Unorthodox Jukebox",
+      "release_date": "2012-12-07",
+      "release_date_precision": "day",
+      "uri": "spotify:album:58ufpQsJ1DS5kq4hhzQDiI",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          },
+          "id": "0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars",
+          "type": "artist",
+          "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "total_tracks": 10
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        "id": "0du5cEVh5yTK9QJze8zA0C",
+        "name": "Bruno Mars",
+        "type": "artist",
+        "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 2,
+    "duration_ms": 233478,
+    "external_ids": { "isrc": "USAT21203287" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
+    },
+    "id": "3w3y8KPTfNeOKPiqUTakBh",
+    "name": "Locked out of Heaven",
+    "popularity": 89,
+    "uri": "spotify:track:3w3y8KPTfNeOKPiqUTakBh"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/8c3c111641cec9ae378d759f6da447bc412f4345?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "0t70lpfTyHEv0uuq21fhdZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739fd0d700bdf33c9ebc42f429",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029fd0d700bdf33c9ebc42f429",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519fd0d700bdf33c9ebc42f429",
+          "width": 64
+        }
+      ],
+      "name": "Wrapped In Red",
+      "release_date": "2013-10-25",
+      "release_date_precision": "day",
+      "uri": "spotify:album:0t70lpfTyHEv0uuq21fhdZ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          },
+          "id": "3BmGtnKgCSGYIUhmivXKWX",
+          "name": "Kelly Clarkson",
+          "type": "artist",
+          "uri": "spotify:artist:3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
+      },
+      "total_tracks": 16
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        "id": "3BmGtnKgCSGYIUhmivXKWX",
+        "name": "Kelly Clarkson",
+        "type": "artist",
+        "uri": "spotify:artist:3BmGtnKgCSGYIUhmivXKWX"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 2,
+    "duration_ms": 229640,
+    "external_ids": { "isrc": "GBCTA1300103" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
+    },
+    "id": "3nAp4IvdMPPWEH9uuXFFV5",
+    "name": "Underneath the Tree",
+    "popularity": 81,
+    "uri": "spotify:track:3nAp4IvdMPPWEH9uuXFFV5"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/a6c7c7d01334a4801d782d6834ff7a2559ab138e?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "53fJVD9LpBKEMqdAF7PW5K",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732ead7786631d8dd3b59be4f0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022ead7786631d8dd3b59be4f0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512ead7786631d8dd3b59be4f0",
+          "width": 64
+        }
+      ],
+      "name": "Christmas (Deluxe Special Edition)",
+      "release_date": "2011-10-24",
+      "release_date_precision": "day",
+      "uri": "spotify:album:53fJVD9LpBKEMqdAF7PW5K",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          },
+          "id": "1GxkXlMwML1oSg5eLPiAz3",
+          "name": "Michael Bublé",
+          "type": "artist",
+          "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
+      },
+      "total_tracks": 21
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        "id": "1GxkXlMwML1oSg5eLPiAz3",
+        "name": "Michael Bublé",
+        "type": "artist",
+        "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 1,
+    "duration_ms": 207199,
+    "external_ids": { "isrc": "USRE11300223" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
+    },
+    "id": "1rv46mRwDqMEhOBZ7vODg3",
+    "name": "It's Beginning to Look a Lot like Christmas",
+    "popularity": 75,
+    "uri": "spotify:track:1rv46mRwDqMEhOBZ7vODg3"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/07de30bde8363d9ff78b72339245c151f67af451?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "78bpIziExqiI9qztvNFlQu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024ae1c4c5c45aabe565499163",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514ae1c4c5c45aabe565499163",
+          "width": 64
+        }
+      ],
+      "name": "AM",
+      "release_date": "2013-09-09",
+      "release_date_precision": "day",
+      "uri": "spotify:album:78bpIziExqiI9qztvNFlQu",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+          },
+          "id": "7Ln80lUS6He07XvHI8qqHH",
+          "name": "Arctic Monkeys",
+          "type": "artist",
+          "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "total_tracks": 12
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        },
+        "id": "7Ln80lUS6He07XvHI8qqHH",
+        "name": "Arctic Monkeys",
+        "type": "artist",
+        "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 12,
+    "duration_ms": 183956,
+    "external_ids": { "isrc": "GBCEL1300373" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+    },
+    "id": "5XeFesFbtLpXzIVDNQP22n",
+    "name": "I Wanna Be Yours",
+    "popularity": 90,
+    "uri": "spotify:track:5XeFesFbtLpXzIVDNQP22n"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/1ef7d828345ee849f794235a6e15a2dd34f98a48?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "4xkM0BwLM9H2IUcbYzpcBI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028265a736a1eb838ad5a0b921",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518265a736a1eb838ad5a0b921",
+          "width": 64
+        }
+      ],
+      "name": "I Love You.",
+      "release_date": "2013-04-22",
+      "release_date_precision": "day",
+      "uri": "spotify:album:4xkM0BwLM9H2IUcbYzpcBI",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+          },
+          "id": "77SW9BnxLY8rJ0RciFqkHh",
+          "name": "The Neighbourhood",
+          "type": "artist",
+          "uri": "spotify:artist:77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+      },
+      "total_tracks": 11
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        },
+        "id": "77SW9BnxLY8rJ0RciFqkHh",
+        "name": "The Neighbourhood",
+        "type": "artist",
+        "uri": "spotify:artist:77SW9BnxLY8rJ0RciFqkHh"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 4,
+    "duration_ms": 240400,
+    "external_ids": { "isrc": "USSM11300080" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+    },
+    "id": "2QjOHCTQ1Jl3zawyYOpxh6",
+    "name": "Sweater Weather",
+    "popularity": 90,
+    "uri": "spotify:track:2QjOHCTQ1Jl3zawyYOpxh6"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/e5bb7776aff44435b938eb084b2eca23e6c7f5ed?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "single",
+      "id": "7tzVd1fwkxsorytCBjEJkU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b0dd6a5cd1dec96c4119c262",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b0dd6a5cd1dec96c4119c262",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b0dd6a5cd1dec96c4119c262",
+          "width": 64
+        }
+      ],
+      "name": "The Idol Episode 4 (Music from the HBO Original Series)",
+      "release_date": "2023-06-23",
+      "release_date_precision": "day",
+      "uri": "spotify:album:7tzVd1fwkxsorytCBjEJkU",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+          },
+          "id": "250b0Wlc5Vk0CoUsaCY84M",
+          "name": "JENNIE",
+          "type": "artist",
+          "uri": "spotify:artist:250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
+          },
+          "id": "1pBLC0qVRTB5zVMuteQ9jJ",
+          "name": "Lily-Rose Depp",
+          "type": "artist",
+          "uri": "spotify:artist:1pBLC0qVRTB5zVMuteQ9jJ"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
+      },
+      "total_tracks": 3
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "name": "The Weeknd",
+        "type": "artist",
+        "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        "id": "250b0Wlc5Vk0CoUsaCY84M",
+        "name": "JENNIE",
+        "type": "artist",
+        "uri": "spotify:artist:250b0Wlc5Vk0CoUsaCY84M"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
+        },
+        "id": "1pBLC0qVRTB5zVMuteQ9jJ",
+        "name": "Lily-Rose Depp",
+        "type": "artist",
+        "uri": "spotify:artist:1pBLC0qVRTB5zVMuteQ9jJ"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 1,
+    "duration_ms": 244684,
+    "external_ids": { "isrc": "USUG12303881" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
+    },
+    "id": "7CyPwkp0oE8Ro9Dd5CUDjW",
+    "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+    "popularity": 90,
+    "uri": "spotify:track:7CyPwkp0oE8Ro9Dd5CUDjW"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/c703198293891e3b276800ea6b187cf7951d3d7d?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": true,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "2nkto6YNI4rUYTLqEwWJ3o",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028940ac99f49e44f59e6f7fb3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518940ac99f49e44f59e6f7fb3",
+          "width": 64
+        }
+      ],
+      "name": "Flower Boy",
+      "release_date": "2017-07-21",
+      "release_date_precision": "day",
+      "uri": "spotify:album:2nkto6YNI4rUYTLqEwWJ3o",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          },
+          "id": "4V8LLVI7PbaPR0K2TGSxFF",
+          "name": "Tyler, The Creator",
+          "type": "artist",
+          "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "total_tracks": 14
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        "id": "4V8LLVI7PbaPR0K2TGSxFF",
+        "name": "Tyler, The Creator",
+        "type": "artist",
+        "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        "id": "1U1el3k54VvEUzo3ybLPlM",
+        "name": "Kali Uchis",
+        "type": "artist",
+        "uri": "spotify:artist:1U1el3k54VvEUzo3ybLPlM"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 4,
+    "duration_ms": 180386,
+    "external_ids": { "isrc": "USQX91701275" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
+    },
+    "id": "7KA4W4McWYRpgf0fWsJZWB",
+    "name": "See You Again (feat. Kali Uchis)",
+    "popularity": 90,
+    "uri": "spotify:track:7KA4W4McWYRpgf0fWsJZWB"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/e769aa637d6edb1bc8ce037a4ed830e9dd54a2d5?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": true,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "56bdWeO40o3WfAD2Lja4dl",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026e2101520787791370f4a96b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516e2101520787791370f4a96b",
+          "width": 64
+        }
+      ],
+      "name": "The Secret of Us",
+      "release_date": "2024-06-21",
+      "release_date_precision": "day",
+      "uri": "spotify:album:56bdWeO40o3WfAD2Lja4dl",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          },
+          "id": "4tuJ0bMpJh08umKkEXKUI5",
+          "name": "Gracie Abrams",
+          "type": "artist",
+          "uri": "spotify:artist:4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "total_tracks": 13
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        },
+        "id": "4tuJ0bMpJh08umKkEXKUI5",
+        "name": "Gracie Abrams",
+        "type": "artist",
+        "uri": "spotify:artist:4tuJ0bMpJh08umKkEXKUI5"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 4,
+    "duration_ms": 157146,
+    "external_ids": { "isrc": "USUG12401766" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
+    },
+    "id": "51rfRCiUSvxXlCSCfIztBy",
+    "name": "I Love You, I'm Sorry",
+    "popularity": 90,
+    "uri": "spotify:track:51rfRCiUSvxXlCSCfIztBy"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/edc686b7336602448c4253ea253441078ead0475?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": true,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "4R6FV9NSzhPihHR0h4pI93",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b11a5489e8cb11dd22b930a0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b11a5489e8cb11dd22b930a0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b11a5489e8cb11dd22b930a0",
+          "width": 64
+        }
+      ],
+      "name": "From Zero",
+      "release_date": "2024-11-15",
+      "release_date_precision": "day",
+      "uri": "spotify:album:4R6FV9NSzhPihHR0h4pI93",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          },
+          "id": "6XyY86QOPPrYVGvF9ch6wz",
+          "name": "Linkin Park",
+          "type": "artist",
+          "uri": "spotify:artist:6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
+      },
+      "total_tracks": 11
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        },
+        "id": "6XyY86QOPPrYVGvF9ch6wz",
+        "name": "Linkin Park",
+        "type": "artist",
+        "uri": "spotify:artist:6XyY86QOPPrYVGvF9ch6wz"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 2,
+    "duration_ms": 190427,
+    "external_ids": { "isrc": "USWB12403464" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
+    },
+    "id": "1EDPVGbyPKJPeGqATwXZvN",
+    "name": "The Emptiness Machine",
+    "popularity": 83,
+    "uri": "spotify:track:1EDPVGbyPKJPeGqATwXZvN"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/93046e987d8c5bfdbeea2768ac1a8ecea17bd7e0?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": false,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "4PgleR09JVnm3zY1fW3XBA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02232711f7d66a1e19e89e28c5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851232711f7d66a1e19e89e28c5",
+          "width": 64
+        }
+      ],
+      "name": "24K Magic",
+      "release_date": "2016-11-17",
+      "release_date_precision": "day",
+      "uri": "spotify:album:4PgleR09JVnm3zY1fW3XBA",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          },
+          "id": "0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars",
+          "type": "artist",
+          "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "total_tracks": 9
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        "id": "0du5cEVh5yTK9QJze8zA0C",
+        "name": "Bruno Mars",
+        "type": "artist",
+        "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 4,
+    "duration_ms": 206693,
+    "external_ids": { "isrc": "USAT21602948" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
+    },
+    "id": "0KKkJNfGyhkQ5aFogxQAPU",
+    "name": "That's What I Like",
+    "popularity": 89,
+    "uri": "spotify:track:0KKkJNfGyhkQ5aFogxQAPU"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/0c6b7caa5c2962837d1122d45d8b9fe70bec29c0?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": true,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "0DLvFVIfwt3OHdK9kGeEM3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27360df033c8f8b17384387666a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0260df033c8f8b17384387666a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485160df033c8f8b17384387666a",
+          "width": 64
+        }
+      ],
+      "name": "Where I've Been, Isn't Where I'm Going",
+      "release_date": "2024-05-31",
+      "release_date_precision": "day",
+      "uri": "spotify:album:0DLvFVIfwt3OHdK9kGeEM3",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+          },
+          "id": "3y2cIKLjiOlp1Np37WiUdH",
+          "name": "Shaboozey",
+          "type": "artist",
+          "uri": "spotify:artist:3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
+      },
+      "total_tracks": 12
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        "id": "3y2cIKLjiOlp1Np37WiUdH",
+        "name": "Shaboozey",
+        "type": "artist",
+        "uri": "spotify:artist:3y2cIKLjiOlp1Np37WiUdH"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 2,
+    "duration_ms": 171291,
+    "external_ids": { "isrc": "USUYG1541249" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
+    },
+    "id": "5fZJQrFKWQLb7FpJXZ1g7K",
+    "name": "A Bar Song (Tipsy)",
+    "popularity": 84,
+    "uri": "spotify:track:5fZJQrFKWQLb7FpJXZ1g7K"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/0c7c347692b80fa8e3ce02f35ef917253fa12439?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": true,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "0hvT3yIEysuuvkK73vgdcW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d9985092cd88bffd97653b58",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d9985092cd88bffd97653b58",
+          "width": 64
+        }
+      ],
+      "name": "GNX",
+      "release_date": "2024-11-22",
+      "release_date_precision": "day",
+      "uri": "spotify:album:0hvT3yIEysuuvkK73vgdcW",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "total_tracks": 12
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+        "name": "Kendrick Lamar",
+        "type": "artist",
+        "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 6,
+    "duration_ms": 275740,
+    "external_ids": { "isrc": "USUG12408500" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0RgjEkSbeuStKfT2Pa4Zai"
+    },
+    "id": "0RgjEkSbeuStKfT2Pa4Zai",
+    "name": "reincarnated",
+    "popularity": 85,
+    "uri": "spotify:track:0RgjEkSbeuStKfT2Pa4Zai"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/25190c98e92a37d54521de87dec17e52ae5f8912?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": true,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "0hvT3yIEysuuvkK73vgdcW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d9985092cd88bffd97653b58",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d9985092cd88bffd97653b58",
+          "width": 64
+        }
+      ],
+      "name": "GNX",
+      "release_date": "2024-11-22",
+      "release_date_precision": "day",
+      "uri": "spotify:album:0hvT3yIEysuuvkK73vgdcW",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "total_tracks": 12
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+        "name": "Kendrick Lamar",
+        "type": "artist",
+        "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5"
+        },
+        "id": "6cUpFVxDYWed9WxtC4QgC5",
+        "name": "Wallie the Sensei",
+        "type": "artist",
+        "uri": "spotify:artist:6cUpFVxDYWed9WxtC4QgC5"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7J5UWTbsUFjoSQZQCQCqbQ"
+        },
+        "id": "7J5UWTbsUFjoSQZQCQCqbQ",
+        "name": "Siete7x",
+        "type": "artist",
+        "uri": "spotify:artist:7J5UWTbsUFjoSQZQCQCqbQ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        "id": "757aE44tKEUQEqRuT6GnEB",
+        "name": "Roddy Ricch",
+        "type": "artist",
+        "uri": "spotify:artist:757aE44tKEUQEqRuT6GnEB"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 8,
+    "duration_ms": 131240,
+    "external_ids": { "isrc": "USUG12408499" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4K1Pg0FLno1ltzX3jeqT83"
+    },
+    "id": "4K1Pg0FLno1ltzX3jeqT83",
+    "name": "dodger blue (feat. wallie the sensei, siete7x, roddy ricch)",
+    "popularity": 84,
+    "uri": "spotify:track:4K1Pg0FLno1ltzX3jeqT83"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/211269ae9b717b65497f3a443446fb1ba5eb21b3?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": true,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "album",
+      "id": "0hvT3yIEysuuvkK73vgdcW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d9985092cd88bffd97653b58",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d9985092cd88bffd97653b58",
+          "width": 64
+        }
+      ],
+      "name": "GNX",
+      "release_date": "2024-11-22",
+      "release_date_precision": "day",
+      "uri": "spotify:album:0hvT3yIEysuuvkK73vgdcW",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "total_tracks": 12
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+        "name": "Kendrick Lamar",
+        "type": "artist",
+        "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4VHa48wXlsDA2vWfgIi7cX"
+        },
+        "id": "4VHa48wXlsDA2vWfgIi7cX",
+        "name": "Dody6",
+        "type": "artist",
+        "uri": "spotify:artist:4VHa48wXlsDA2vWfgIi7cX"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 5,
+    "duration_ms": 217478,
+    "external_ids": { "isrc": "USUG12408497" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5S8VwnB4sLi6W0lYTWYylu"
+    },
+    "id": "5S8VwnB4sLi6W0lYTWYylu",
+    "name": "hey now (feat. dody6)",
+    "popularity": 85,
+    "uri": "spotify:track:5S8VwnB4sLi6W0lYTWYylu"
+  },
+  {
+    "preview_url": "https://p.scdn.co/mp3-preview/b0f36c2ef04c7f67feea1e01b29ff467a428a5ad?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+    "explicit": true,
+    "type": "track",
+    "episode": false,
+    "track": true,
+    "album": {
+      "type": "album",
+      "album_type": "single",
+      "id": "0xyBpeAAr8E86J7GH1SNUR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f66501800b3a51af3bc69f8d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f66501800b3a51af3bc69f8d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f66501800b3a51af3bc69f8d",
+          "width": 64
+        }
+      ],
+      "name": "Presidente",
+      "release_date": "2024-10-21",
+      "release_date_precision": "day",
+      "uri": "spotify:album:0xyBpeAAr8E86J7GH1SNUR",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          },
+          "id": "6Sbl0NT50roqWvy746MfVf",
+          "name": "Gabito Ballesteros",
+          "type": "artist",
+          "uri": "spotify:artist:6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          },
+          "id": "0elWFr7TW8piilVRYJUe4P",
+          "name": "Natanael Cano",
+          "type": "artist",
+          "uri": "spotify:artist:0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          },
+          "id": "0pePYDrJGk8gqMRbXrLJC8",
+          "name": "Luis R Conriquez",
+          "type": "artist",
+          "uri": "spotify:artist:0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0xyBpeAAr8E86J7GH1SNUR"
+      },
+      "total_tracks": 1
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        "id": "6Sbl0NT50roqWvy746MfVf",
+        "name": "Gabito Ballesteros",
+        "type": "artist",
+        "uri": "spotify:artist:6Sbl0NT50roqWvy746MfVf"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        "id": "0elWFr7TW8piilVRYJUe4P",
+        "name": "Natanael Cano",
+        "type": "artist",
+        "uri": "spotify:artist:0elWFr7TW8piilVRYJUe4P"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        "id": "0pePYDrJGk8gqMRbXrLJC8",
+        "name": "Luis R Conriquez",
+        "type": "artist",
+        "uri": "spotify:artist:0pePYDrJGk8gqMRbXrLJC8"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        "id": "6pV5zH2LzjOUHaAvENdMMa",
+        "name": "Neton Vega",
+        "type": "artist",
+        "uri": "spotify:artist:6pV5zH2LzjOUHaAvENdMMa"
+      }
+    ],
+    "disc_number": 1,
+    "track_number": 1,
+    "duration_ms": 181064,
+    "external_ids": { "isrc": "USA2P2461776" },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4OLT65TRsOx3Iv1TlCcQVb"
+    },
+    "id": "4OLT65TRsOx3Iv1TlCcQVb",
+    "name": "Presidente",
+    "popularity": 87,
+    "uri": "spotify:track:4OLT65TRsOx3Iv1TlCcQVb"
+  }
+]
