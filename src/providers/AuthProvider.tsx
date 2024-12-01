@@ -22,7 +22,16 @@ export const AuthProvider = (props: PropsWithChildren) => {
     email: string,
     password: string
   ) => {
-    return authentication.current.login(email, password);
+    return authentication.current
+      .login(email, password)
+      .then((u) => {
+        setUser(u);
+        return u;
+      })
+      .catch((e) => {
+        setUser(null);
+        return e;
+      });
   };
 
   return (

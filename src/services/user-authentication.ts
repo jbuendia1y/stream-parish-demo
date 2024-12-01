@@ -17,8 +17,10 @@ export class UserAuthentication {
   }
 
   login(email: string, password: string): Promise<User> {
-    if (email === "example@example.com" && password === "example")
+    if (email === "example@example.com" && password === "example") {
+      this.token = "HAS LOGGED";
       return Promise.resolve(USER);
+    }
 
     return Promise.reject(new Error("Incorrect email or password"));
   }
