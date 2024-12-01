@@ -20,7 +20,7 @@ interface RegisterForm {
 }
 
 export default function Login() {
-  const { registerWithEmail } = useAuth();
+  const { registerWithEmail, loginWithGoogle } = useAuth();
   const navigate = useNavigate();
   const { register, formState, handleSubmit, setError } =
     useForm<RegisterForm>();
@@ -39,6 +39,11 @@ export default function Login() {
       setError("email", { message: "Incorrect email" });
       setError("password", { message: "Incorrect password" });
     }
+  };
+
+  const signInWithGoogle = async () => {
+    await loginWithGoogle();
+    navigate("/home");
   };
 
   return (
@@ -157,6 +162,9 @@ export default function Login() {
               color: (theme) => theme.palette.common.black,
             }}
             startIcon={<FcGoogle />}
+            onClick={async () => {
+              await signInWithGoogle();
+            }}
           >
             Google
           </Button>
