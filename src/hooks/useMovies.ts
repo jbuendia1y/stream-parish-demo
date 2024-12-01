@@ -1,5 +1,5 @@
-import { Movie } from "../models/Movie";
 import { useQuery } from "@tanstack/react-query";
+import { getMoviesData } from "../services/movies-data";
 
 interface Options {
   search?: string;
@@ -12,23 +12,10 @@ export const useMovies = (options: Options = {}) => {
 
   const query = useQuery({
     queryKey: ["movies", options.page, options.search],
-    queryFn: () =>
-      import("../data/movies.json").then((v) => {
-        const startAt = (page - 1) * limit;
-        const endAt = page * limit;
-
-        if (options.search) {
-          const search = options.search?.toLocaleLowerCase() ?? "";
-          return v.default
-            .filter(
-              (v) =>
-                v.title.toLocaleLowerCase().includes(search) ||
-                v.description.toLocaleLowerCase().includes(search)
-            )
-            .slice(startAt, endAt);
-        }
-        return v.default.slice(startAt, endAt);
-      }) as Promise<Movie[]>,
+    queryFn: async () => {
+      return await getMoviesData({ ...options, page, limit });
+    },
   });
+  console.log(query);
   return query;
 };

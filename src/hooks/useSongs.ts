@@ -1,13 +1,10 @@
 import { useQuery } from "@tanstack/react-query";
-import { SongTrack } from "../models/SongTrack";
+import { getSongsData } from "../services/songs-data";
 
 export function useSongs() {
   const query = useQuery({
     queryKey: ["songs"],
-    queryFn: () =>
-      import("../data/songs.json").then((m) =>
-        m.default.slice(0, 20)
-      ) as Promise<SongTrack[]>,
+    queryFn: () => getSongsData({}),
   });
 
   return query;

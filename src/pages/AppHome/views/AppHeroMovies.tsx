@@ -75,7 +75,7 @@ export function AppHeroMovies() {
     <Box component="section">
       <InfiniteCarousel timeToChange={5}>
         {movies.map((movie) => (
-          <HeroMovieItem movie={movie} />
+          <HeroMovieItem key={"hero-movie" + movie.id} movie={movie} />
         ))}
       </InfiniteCarousel>
     </Box>
