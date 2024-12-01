@@ -2,11 +2,13 @@ import {
   Box,
   Button,
   Container,
+  Link,
+  Paper,
   Stack,
   TextField,
   Typography,
 } from "@mui/material";
-import { Link, useNavigate } from "react-router-dom";
+import { Link as ReactLink, useNavigate } from "react-router-dom";
 import { FcGoogle } from "react-icons/fc";
 import { useForm } from "react-hook-form";
 import { useAuth } from "../hooks/useAuth";
@@ -40,6 +42,7 @@ export default function Login() {
     >
       <Container
         maxWidth="sm"
+        component={Paper}
         sx={{
           display: "flex",
           flexDirection: "column",
@@ -50,7 +53,8 @@ export default function Login() {
           paddingX: "10px",
           boxSizing: "border-box",
           borderRadius: 2,
-          backgroundColor: (theme) => theme.palette.grey.A400,
+          boxShadow: 5,
+          backgroundColor: "#b6b6b6a3",
         }}
       >
         <Typography
@@ -82,7 +86,7 @@ export default function Login() {
               error={!!formState.errors.password}
             />
             <Typography
-              component={Link}
+              component={ReactLink}
               to="/forgot-password"
               display="block"
               textAlign="right"
@@ -92,6 +96,18 @@ export default function Login() {
             <Button type="submit" variant="contained" fullWidth size="large">
               Iniciar sessión
             </Button>
+            <Box paddingTop={1}>
+              <Link
+                component={ReactLink}
+                to="/register"
+                display="block"
+                textAlign="center"
+                letterSpacing={2.5}
+                sx={{ marginTop: 1 }}
+              >
+                ¿No tienes cuenta?, ¡escoge un plan!
+              </Link>
+            </Box>
           </Stack>
           <Typography
             component="p"
@@ -129,7 +145,11 @@ export default function Login() {
             variant="contained"
             size="large"
             fullWidth
-            sx={{ borderRadius: 10000 }}
+            sx={{
+              borderRadius: 10000,
+              backgroundColor: (theme) => theme.palette.common.white,
+              color: (theme) => theme.palette.common.black,
+            }}
             startIcon={<FcGoogle />}
           >
             Google
