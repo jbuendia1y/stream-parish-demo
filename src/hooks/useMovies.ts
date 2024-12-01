@@ -16,6 +16,5 @@ export const useMovies = (options: Options = {}) => {
       return await getMoviesData({ ...options, page, limit });
     },
   });
-  console.log(query);
   return query;
 };

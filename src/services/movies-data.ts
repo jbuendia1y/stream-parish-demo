@@ -35,8 +35,6 @@ export const getMoviesData = async (options: Options) => {
     ...constraints
   );
   const snapshot = await getDocs(q);
-  console.log("HAA");
   const data = snapshot.docs.map((d) => d.data()) as Movie[];
-  console.log(data);
   return data;
 };
