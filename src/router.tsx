@@ -1,33 +1,47 @@
 import { createBrowserRouter } from "react-router-dom";
 import { ProtectedRoute } from "./components/ProtectedRoute";
-import Home from "./pages/Home";
-import Login from "./pages/Login";
-import { AppHome } from "./pages/AppHome";
-import { AppMovies } from "./pages/AppMovies";
 
 export const router = createBrowserRouter([
   {
     path: "",
-    element: <Home />,
+    lazy: async () => {
+      const Home = await import("./pages/Home").then((m) => m.default);
+      return { Component: Home };
+    },
   },
   {
     path: "login",
-    element: <Login />,
+    lazy: async () => {
+      const Login = await import("./pages/Login").then((m) => m.default);
+      return { Component: Login };
+    },
   },
   {
     path: "home",
-    element: (
-      <ProtectedRoute>
-        <AppHome />
-      </ProtectedRoute>
-    ),
+    lazy: async () => {
+      const AppHome = await import("./pages/AppHome").then((m) => m.AppHome);
+      return {
+        Component: () => (
+          <ProtectedRoute>
+            <AppHome />
+          </ProtectedRoute>
+        ),
+      };
+    },
   },
   {
     path: "movies",
-    element: (
-      <ProtectedRoute>
-        <AppMovies />
-      </ProtectedRoute>
-    ),
+    lazy: async () => {
+      const AppMovies = await import("./pages/AppMovies").then(
+        (m) => m.AppMovies
+      );
+      return {
+        Component: () => (
+          <ProtectedRoute>
+            <AppMovies />
+          </ProtectedRoute>
+        ),
+      };
+    },
   },
 ]);
