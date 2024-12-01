@@ -1,32 +1,39 @@
+import {
+  GoogleAuthProvider,
+  signInWithPopup,
+  createUserWithEmailAndPassword,
+  signInWithEmailAndPassword,
+} from "firebase/auth";
 import { User } from "../models/User";
-
-const USER: User = {
-  avatar:
-    "https://fastly.picsum.photos/id/237/100/100.jpg?hmac=Pna_vL4vYBRMXxFMY-lYXcZAL34T7PZWdNDlEOwqqE4",
-  email: "example@example.com",
-  username: "user example",
-};
+import { auth, db } from "../libs/firebase";
+import { doc, setDoc } from "firebase/firestore";
 
 export class UserAuthentication {
-  get token() {
+  /* get token() {
     return localStorage.getItem("@StreamParish/TOKEN");
   }
   set token(value: string | null) {
     if (!value) localStorage.removeItem("@StreamParish/TOKEN");
     else localStorage.setItem("@StreamParish/TOKEN", value);
+  } */
+
+  async login(email: string, password: string): Promise<void> {
+    await signInWithEmailAndPassword(auth, email, password);
   }
 
-  login(email: string, password: string): Promise<User> {
-    if (email === "example@example.com" && password === "example") {
-      this.token = "HAS LOGGED";
-      return Promise.resolve(USER);
-    }
-
-    return Promise.reject(new Error("Incorrect email or password"));
+  async register(data: User & { password: string }): Promise<User> {
+    const res = await createUserWithEmailAndPassword(
+      auth,
+      data.email,
+      data.password
+    );
+    // eslint-disable-next-line @typescript-eslint/no-unused-vars
+    const { password: _, ...userData } = data;
+    await setDoc(doc(db, "users", res.user.uid), userData);
+    return data;
   }
 
-  getProfile(): Promise<User> {
-    if (!this.token) return Promise.reject(new Error("USER NOT LOGGED"));
-    return Promise.resolve(USER);
+  async loginWithGoogle(): Promise<void> {
+    await signInWithPopup(auth, new GoogleAuthProvider());
   }
 }

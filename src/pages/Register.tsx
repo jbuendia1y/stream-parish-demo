@@ -13,20 +13,26 @@ import { FcGoogle } from "react-icons/fc";
 import { useForm } from "react-hook-form";
 import { useAuth } from "../hooks/useAuth";
 
-interface LoginForm {
+interface RegisterForm {
+  username: string;
   email: string;
   password: string;
 }
 
 export default function Login() {
-  const { login, loginWithGoogle } = useAuth();
+  const { registerWithEmail, loginWithGoogle } = useAuth();
   const navigate = useNavigate();
-  const { register, formState, handleSubmit, setError } = useForm<LoginForm>();
+  const { register, formState, handleSubmit, setError } =
+    useForm<RegisterForm>();
 
-  const OnSubmit = async (data: LoginForm) => {
+  const OnSubmit = async (data: RegisterForm) => {
     try {
-      await login(data.email, data.password);
-      navigate("/home");
+      await registerWithEmail({
+        avatar:
+          "https://fastly.picsum.photos/id/237/100/100.jpg?hmac=Pna_vL4vYBRMXxFMY-lYXcZAL34T7PZWdNDlEOwqqE4",
+        ...data,
+      });
+      navigate("/login");
       // eslint-disable-next-line @typescript-eslint/no-explicit-any
     } catch (e: any) {
       console.error(e);
@@ -68,7 +74,7 @@ export default function Login() {
           textAlign="center"
           marginBottom="30px"
         >
-          Comienza tu aventura
+          Crear cuenta
         </Typography>
         <Container
           component="form"
@@ -76,6 +82,13 @@ export default function Login() {
           onSubmit={handleSubmit(OnSubmit)}
         >
           <Stack spacing="10px">
+            <TextField
+              label="Username"
+              type="username"
+              size="medium"
+              {...register("username", { required: true })}
+              error={!!formState.errors.username}
+            />
             <TextField
               label="Email"
               type="email"
@@ -90,27 +103,20 @@ export default function Login() {
               {...register("password", { required: true })}
               error={!!formState.errors.password}
             />
-            <Typography
-              component={ReactLink}
-              to="/forgot-password"
-              display="block"
-              textAlign="right"
-            >
-              ¿Olvidaste tu contraseña?
-            </Typography>
+
             <Button type="submit" variant="contained" fullWidth size="large">
-              Iniciar sessión
+              Registrarse
             </Button>
             <Box paddingTop={1}>
               <Link
                 component={ReactLink}
-                to="/register"
+                to="/login"
                 display="block"
                 textAlign="center"
                 letterSpacing={2.5}
                 sx={{ marginTop: 1 }}
               >
-                ¿No tienes cuenta?, ¡escoge un plan!
+                Ya tienes cuenta?, ¡Inicia sessión!
               </Link>
             </Box>
           </Stack>
