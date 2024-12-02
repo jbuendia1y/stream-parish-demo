@@ -12,17 +12,23 @@ export function RecommendedSongs() {
         Canciones a tu medida
       </Typography>
       {isLoading ? (
-        <Skeleton>
-          <SongCard
-            track={
-              {
-                name: "",
-                album: { images: [{ url: "", width: 300, height: 300 }] },
-                // eslint-disable-next-line @typescript-eslint/no-explicit-any
-              } as any
-            }
-          />
-        </Skeleton>
+        <Carousel>
+          {Array.from({ length: 5 }, (_, idx) => idx).map((idx) => (
+            <Skeleton
+              variant="rectangular"
+              key={"skeleton-movie-card-recommended-" + idx}
+            >
+              <SongCard
+                track={
+                  {
+                    album: { images: [{ url: "/romeo_santos.jpeg" }] },
+                    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+                  } as any
+                }
+              />
+            </Skeleton>
+          ))}
+        </Carousel>
       ) : null}
       {songs ? (
         <Carousel>
