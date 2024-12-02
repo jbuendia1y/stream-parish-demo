@@ -1,7 +1,7 @@
 import { PropsWithChildren, useEffect, useRef, useState } from "react";
 import { onAuthStateChanged } from "firebase/auth";
 import { AuthContext, AuthCtxValueType } from "../contexts/auth.context";
-import { User, UserLoading, UserStateType } from "../models/User";
+import { User, UserLoading, UserNotExist, UserStateType } from "../models/User";
 import { UserAuthentication } from "../services/user-authentication";
 import { auth } from "../libs/firebase";
 import { getUserData, updateUserData } from "../services/user-data";
@@ -13,7 +13,7 @@ export const AuthProvider = (props: PropsWithChildren) => {
   useEffect(() => {
     const sub = onAuthStateChanged(auth, async (u) => {
       if (!u) {
-        setUser(null);
+        setUser(UserNotExist);
         return;
       }
 

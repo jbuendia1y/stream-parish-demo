@@ -54,7 +54,7 @@ export function Hero() {
       <Stack className="main-actions" spacing="10px" marginY="20px">
         <Button
           component={Link}
-          to="/subscribe"
+          to="/register"
           fullWidth
           variant="contained"
           size="large"
