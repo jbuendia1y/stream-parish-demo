@@ -12,16 +12,23 @@ export function RecommendedShows() {
         Empieza una nueva aventura
       </Typography>
       {isLoading ? (
-        <Skeleton>
-          <ShowCard
-            show={
-              {
-                image: { url: "" },
-                // eslint-disable-next-line @typescript-eslint/no-explicit-any
-              } as any
-            }
-          />
-        </Skeleton>
+        <Carousel>
+          {Array.from({ length: 5 }, (_, idx) => idx).map((idx) => (
+            <Skeleton
+              variant="rectangular"
+              key={"skeleton-movie-card-recommended-" + idx}
+            >
+              <ShowCard
+                show={
+                  {
+                    image: { url: "romeo_santos.jpeg" },
+                    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+                  } as any
+                }
+              />
+            </Skeleton>
+          ))}
+        </Carousel>
       ) : null}
       {shows ? (
         <Carousel>
