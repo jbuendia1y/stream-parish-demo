@@ -1,7 +1,13 @@
 import { PropsWithChildren, useEffect, useRef, useState } from "react";
 import { onAuthStateChanged } from "firebase/auth";
 import { AuthContext, AuthCtxValueType } from "../contexts/auth.context";
-import { User, UserLoading, UserNotExist, UserStateType } from "../models/User";
+import {
+  DEFAULT_USER_AVATAR_URL,
+  User,
+  UserLoading,
+  UserNotExist,
+  UserStateType,
+} from "../models/User";
 import { UserAuthentication } from "../services/user-authentication";
 import { auth } from "../libs/firebase";
 import { getUserData, updateUserData } from "../services/user-data";
@@ -24,9 +30,7 @@ export const AuthProvider = (props: PropsWithChildren) => {
       }
 
       const userData: User = {
-        avatar:
-          u.photoURL ??
-          "https://fastly.picsum.photos/id/237/100/100.jpg?hmac=Pna_vL4vYBRMXxFMY-lYXcZAL34T7PZWdNDlEOwqqE4",
+        avatar: u.photoURL ?? DEFAULT_USER_AVATAR_URL,
         email: u.email as string,
         username:
           u.displayName?.toLocaleLowerCase()?.replace(" ", "-") ?? "Example",
@@ -43,6 +47,10 @@ export const AuthProvider = (props: PropsWithChildren) => {
     return authentication.current.login(email, password);
   };
 
+  const logout: AuthCtxValueType["logout"] = () => {
+    return authentication.current.logout();
+  };
+
   const loginWithGoogle: AuthCtxValueType["loginWithGoogle"] = () => {
     return authentication.current.loginWithGoogle();
   };
@@ -53,7 +61,7 @@ export const AuthProvider = (props: PropsWithChildren) => {
 
   return (
     <AuthContext.Provider
-      value={{ user, login, loginWithGoogle, registerWithEmail }}
+      value={{ user, login, logout, loginWithGoogle, registerWithEmail }}
     >
       {props.children}
     </AuthContext.Provider>
