@@ -72,84 +72,82 @@ export function MobileNavButton() {
         <MenuItem component={Link} to="/shows?status=current">
           En emisión
         </MenuItem>
-        {user === UserNotExist || user === UserLoading ? (
-          <>
-            <Divider key="navbar-menu-divider" />
-            <Box paddingX={1} marginY={1} key="navbar-menu-signin-button">
-              <Button
-                variant="contained"
-                color="primary"
-                sx={(theme) => ({
-                  backgroundColor: theme.palette.common.white,
-                  color: theme.palette.primary.dark,
-                  textTransform: "none",
-                  borderRadius: "10px",
-                  fontWeight: "bold",
-                  ":hover": {
+        {user === UserNotExist || user === UserLoading
+          ? [
+              <Divider key="navbar-menu-divider" />,
+              <Box paddingX={1} marginY={1} key="navbar-menu-signin-button">
+                <Button
+                  variant="contained"
+                  color="primary"
+                  sx={(theme) => ({
                     backgroundColor: theme.palette.common.white,
-                  },
-                })}
-                fullWidth
-                component={Link}
-                to="/login"
-              >
-                Sign In
-              </Button>
-            </Box>
-            <Box paddingX={1} key="navbar-menu-enternow-button">
-              <Button
-                variant="contained"
-                color="success"
-                sx={(theme) => ({
-                  borderRadius: "10px",
-                  textTransform: "none",
-                  fontWeight: "bold",
-                  backgroundColor: "#C81973",
-                  color: theme.palette.common.white,
-                  ":hover": {
+                    color: theme.palette.primary.dark,
+                    textTransform: "none",
+                    borderRadius: "10px",
+                    fontWeight: "bold",
+                    ":hover": {
+                      backgroundColor: theme.palette.common.white,
+                    },
+                  })}
+                  fullWidth
+                  component={Link}
+                  to="/login"
+                >
+                  Sign In
+                </Button>
+              </Box>,
+              <Box paddingX={1} key="navbar-menu-enternow-button">
+                <Button
+                  variant="contained"
+                  color="success"
+                  sx={(theme) => ({
+                    borderRadius: "10px",
+                    textTransform: "none",
+                    fontWeight: "bold",
                     backgroundColor: "#C81973",
-                  },
-                })}
-                fullWidth
-                component={Link}
-                to="/register"
-              >
-                Enter now !
-              </Button>
-            </Box>
-          </>
-        ) : (
-          <>
-            <Divider key="navbar-menu-divider" />
-            <MenuItem>
-              <ListItemIcon>
-                <Avatar
-                  src={user.avatar}
-                  alt={user.username}
-                  sx={{ backgroundColor: "white", width: 30, height: 30 }}
+                    color: theme.palette.common.white,
+                    ":hover": {
+                      backgroundColor: "#C81973",
+                    },
+                  })}
+                  fullWidth
+                  component={Link}
+                  to="/register"
+                >
+                  Enter now !
+                </Button>
+              </Box>,
+            ]
+          : [
+              <Divider key="navbar-menu-divider" />,
+              <MenuItem key="navbar-profile-avatar-menu-item">
+                <ListItemIcon>
+                  <Avatar
+                    src={user.avatar}
+                    alt={user.username}
+                    sx={{ backgroundColor: "white", width: 30, height: 30 }}
+                  />
+                </ListItemIcon>
+                <ListItemText
+                  primary={user.username}
+                  secondary={"Plan FREE"}
+                  sx={{ marginLeft: 1 }}
                 />
-              </ListItemIcon>
-              <ListItemText
-                primary={user.username}
-                secondary={"Plan FREE"}
-                sx={{ marginLeft: 1 }}
-              />
-            </MenuItem>
-            <MenuItem>
-              <ListItemIcon>
-                <IoSettingsSharp width="25" height="25" fill="white" />
-              </ListItemIcon>
-              Configuración
-            </MenuItem>
-            <Divider />
-            <MenuItem onClick={logout}>
-              <ListItemIcon>
-                <MdLogout width="25" height="25" fill="white" />
-              </ListItemIcon>
-              Cerrar sessión
-            </MenuItem>
-          </>
-        )}
+              </MenuItem>,
+              <MenuItem key="navbar-menu-configuration-item">
+                <ListItemIcon>
+                  <IoSettingsSharp width="25" height="25" fill="white" />
+                </ListItemIcon>
+                Configuración
+              </MenuItem>,
+              <Divider key="navbar-menu-divider-auth-options" />,
+              <MenuItem onClick={logout} key="navbar-menu-logout-item">
+                <ListItemIcon>
+                  <MdLogout width="25" height="25" fill="white" />
+                </ListItemIcon>
+                Cerrar sessión
+              </MenuItem>,
+            ]}
       </Menu>
     </>
   );

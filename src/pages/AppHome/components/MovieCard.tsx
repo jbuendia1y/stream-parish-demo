@@ -8,7 +8,7 @@ interface Props {
 
 export function MovieCard({ movie }: Props) {
   return (
-    <Link to={"#" + movie.id}>
+    <Link to={"/movies/" + movie.imdbid}>
       <Paper
         component="img"
         src={movie.image}

@@ -8,9 +8,13 @@ import {
 } from "@mui/material";
 import { FaPlay, FaRegStar } from "react-icons/fa";
 import { SlLike } from "react-icons/sl";
-import { IoIosAddCircleOutline } from "react-icons/io";
+import {
+  IoIosAddCircleOutline,
+  IoMdInformationCircleOutline,
+} from "react-icons/io";
 
 import { Movie } from "../../../models/Movie";
+import { Link } from "react-router-dom";
 
 interface HeroMovie extends Movie {
   srcset: string;
@@ -54,6 +58,16 @@ export function HeroMovieItem({ movie }: { movie: HeroMovie }) {
               size="small"
             >
               Play
+            </Button>
+            <Button
+              component={Link}
+              to={"/movies/" + movie.imdbid}
+              startIcon={<IoMdInformationCircleOutline />}
+              variant="outlined"
+              color="inherit"
+              size="small"
+            >
+              More info
             </Button>
             <IconButton
               size="small"
