@@ -51,4 +51,32 @@ export const router = createBrowserRouter([
       };
     },
   },
+  {
+    path: "movies/:movieId",
+    lazy: async () => {
+      const AppMovie = await import("./pages/AppMovie").then((m) => m.AppMovie);
+      return {
+        Component: () => (
+          <ProtectedRoute>
+            <AppMovie />
+          </ProtectedRoute>
+        ),
+      };
+    },
+  },
+  {
+    path: "shows/:showId",
+    lazy: async () => {
+      const AppTvShows = await import("./pages/AppTvShow").then(
+        (m) => m.AppTvShow
+      );
+      return {
+        Component: () => (
+          <ProtectedRoute>
+            <AppTvShows />
+          </ProtectedRoute>
+        ),
+      };
+    },
+  },
 ]);

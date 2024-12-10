@@ -3,6 +3,7 @@ import {
   signInWithPopup,
   createUserWithEmailAndPassword,
   signInWithEmailAndPassword,
+  signOut,
 } from "firebase/auth";
 import { User } from "../models/User";
 import { auth, db } from "../libs/firebase";
@@ -35,5 +36,9 @@ export class UserAuthentication {
 
   async loginWithGoogle(): Promise<void> {
     await signInWithPopup(auth, new GoogleAuthProvider());
+  }
+
+  async logout(): Promise<void> {
+    await signOut(auth);
   }
 }

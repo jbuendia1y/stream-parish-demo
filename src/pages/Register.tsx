@@ -12,6 +12,7 @@ import { Link as ReactLink, useNavigate } from "react-router-dom";
 import { FcGoogle } from "react-icons/fc";
 import { useForm } from "react-hook-form";
 import { useAuth } from "../hooks/useAuth";
+import { DEFAULT_USER_AVATAR_URL } from "../models/User";
 
 interface RegisterForm {
   username: string;
@@ -28,8 +29,7 @@ export default function Login() {
   const OnSubmit = async (data: RegisterForm) => {
     try {
       await registerWithEmail({
-        avatar:
-          "https://fastly.picsum.photos/id/237/100/100.jpg?hmac=Pna_vL4vYBRMXxFMY-lYXcZAL34T7PZWdNDlEOwqqE4",
+        avatar: DEFAULT_USER_AVATAR_URL,
         ...data,
       });
       navigate("/login");

@@ -1,3 +1,7 @@
+# Data
+src/data/shows
+src/data/movies
+
 # Logs
 logs
 *.log

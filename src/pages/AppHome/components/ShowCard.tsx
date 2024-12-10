@@ -6,7 +6,7 @@ export function ShowCard({ show }: { show: TvShow }) {
   const image = show.image;
 
   return (
-    <Link to="#">
+    <Link to={"/shows/" + show.id}>
       <Paper
         component="img"
         src={image.url}

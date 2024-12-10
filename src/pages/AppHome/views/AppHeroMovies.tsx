@@ -12,6 +12,7 @@ export function AppHeroMovies() {
     {
       rank: 32,
       title: "Oppenheimer",
+      coverImage: "",
       description:
         "The story of American scientist, J. Robert Oppenheimer, and his role in the development of the atomic bomb.",
       image:
@@ -32,6 +33,7 @@ export function AppHeroMovies() {
     {
       rank: 35,
       title: "The Pianist",
+      coverImage: "",
       description:
         "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
       image:
@@ -52,6 +54,7 @@ export function AppHeroMovies() {
     {
       rank: 53,
       title: "Alien",
+      coverImage: "",
       description:
         "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission.",
       big_image:
