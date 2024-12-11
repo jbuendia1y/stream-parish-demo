@@ -114,9 +114,17 @@ export const AppTvShow = () => {
               justifyContent="space-between"
               alignItems="center"
             >
-              <Typography component="h1" variant="h4" fontWeight="bold">
-                {show?.title}
-              </Typography>
+              <Box component={isLoading ? Skeleton : "div"}>
+                <Typography component="h1" variant="h4" fontWeight="bold">
+                  {show?.title}
+                </Typography>
+                <Typography component="p" variant="caption">
+                  {show?.seasons} seasons | {show?.totalEpisodes} episodes |
+                  TvShow | {show?.releaseYear.year} -{" "}
+                  {show?.releaseYear.endYear ?? "?"}
+                </Typography>
+              </Box>
+
               <Typography
                 fontSize={25}
                 sx={{ display: "flex", alignItems: "center", gap: 1 }}
@@ -130,10 +138,7 @@ export const AppTvShow = () => {
               variant="body1"
               sx={{ textWrap: "pretty" }}
             >
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui
-              sequi pariatur eius iusto ullam adipisci tempora nobis maiores
-              distinctio! Enim quod, culpa sit aperiam quisquam nostrum
-              molestiae iure repellendus et!
+              {show?.description}
             </Typography>
             <ShowGenresList show={show ?? undefined} />
             <Stack direction="row" spacing={2}>

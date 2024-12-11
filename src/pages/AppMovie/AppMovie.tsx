@@ -8,7 +8,6 @@ import {
   Chip,
   Container,
   IconButton,
-  Paper,
   Skeleton,
   Stack,
   Typography,
@@ -71,123 +70,132 @@ export const AppMovie = () => {
           }}
         ></Box>
       </Box>
-      <Container maxWidth="lg" component="main">
-        <Paper
+      <Container
+        maxWidth="lg"
+        component="main"
+        sx={{
+          backgroundColor: (theme) => theme.palette.primary.main,
+        }}
+      >
+        <Box
           sx={{
-            backgroundColor: (theme) => theme.palette.primary.main,
-            width: "90%",
+            maxWidth: "90%",
             marginX: "auto",
-            paddingX: 5,
+            boxSizing: "border-box",
           }}
         >
-          <Stack direction={["column", "row"]} sx={{ gap: 3, paddingY: 2 }}>
-            <Box sx={{ maxHeight: 300 }}>
-              {isLoading ? (
-                <Skeleton
-                  height={400}
-                  sx={{
-                    width: ["auto", 300],
-                    transform: ["none", "translateY(-100px)"],
-                  }}
-                />
-              ) : (
-                <Box
-                  component="img"
-                  src={movie?.image}
-                  alt={movie?.title}
-                  sx={{
-                    aspectRatio: "9/16",
-                    objectFit: "cover",
-                    height: ["auto", 400],
-                    width: ["100%", 300],
-                    maxHeight: [300, "unset"],
-                    borderRadius: 2,
-                    transform: ["none", "translateY(-100px)"],
-                  }}
-                />
-              )}
-            </Box>
+          <Box>
+            <Stack direction={["column", "row"]} sx={{ gap: 3, paddingY: 2 }}>
+              <Box sx={{ maxHeight: 300 }}>
+                {isLoading ? (
+                  <Skeleton
+                    height={400}
+                    sx={{
+                      width: ["auto", 300],
+                      transform: ["none", "translateY(-100px)"],
+                    }}
+                  />
+                ) : (
+                  <Box
+                    component="img"
+                    src={movie?.image}
+                    alt={movie?.title}
+                    sx={{
+                      aspectRatio: "9/16",
+                      objectFit: "cover",
+                      height: ["auto", 400],
+                      width: ["100%", 300],
+                      maxHeight: [300, "unset"],
+                      borderRadius: 2,
+                      transform: ["none", "translateY(-100px)"],
+                    }}
+                  />
+                )}
+              </Box>
 
-            {isLoading ? (
-              <Box>
-                <Skeleton>
-                  <Typography variant="h4" fontWeight="bold">
-                    Loading title
+              {isLoading ? (
+                <Box>
+                  <Skeleton>
+                    <Typography variant="h4" fontWeight="bold">
+                      Loading title
+                    </Typography>
+                  </Skeleton>
+                  <Skeleton>
+                    <Typography>
+                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                      Iusto alias dignissimos ipsam voluptatibus esse vero
+                      quisquam similique. Ipsam, at aut! Ad, neque in.
+                      Consequuntur optio.
+                    </Typography>
+                  </Skeleton>
+                </Box>
+              ) : (
+                <Box>
+                  <Typography variant="h4" component="h1" fontWeight="bold">
+                    {movie?.title}
                   </Typography>
-                </Skeleton>
-                <Skeleton>
-                  <Typography>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Iusto alias dignissimos ipsam voluptatibus esse vero
-                    quisquam similique. Ipsam, at aut! Ad, neque in.
-                    Consequuntur optio.
+                  <Typography
+                    variant="caption"
+                    component="p"
+                    sx={{ marginY: 0.5 }}
+                  >
+                    2h 30min | {movie?.year} | Película
                   </Typography>
-                </Skeleton>
-              </Box>
-            ) : (
-              <Box>
-                <Typography variant="h4" component="h1" fontWeight="bold">
-                  {movie?.title}
-                </Typography>
-                <Typography
-                  variant="caption"
-                  component="p"
-                  sx={{ marginY: 0.5 }}
-                >
-                  2h 30min | {movie?.year} | Película
-                </Typography>
-                <Typography>{movie?.description}</Typography>
-                <Stack
-                  direction="row"
-                  spacing={1}
-                  flexWrap="wrap"
-                  sx={{ marginY: 1.5 }}
-                >
-                  {movie?.genre.map((genre) => (
-                    <Chip
-                      label={genre}
+                  <Typography sx={{ textWrap: "pretty" }}>
+                    {movie?.description}
+                  </Typography>
+                  <Stack
+                    direction="row"
+                    spacing={1}
+                    flexWrap="wrap"
+                    sx={{ marginY: 1.5 }}
+                  >
+                    {movie?.genre.map((genre) => (
+                      <Chip
+                        label={genre}
+                        color="secondary"
+                        variant="outlined"
+                        size="small"
+                        key={`movie-${movie.id}-genre-chip-${genre}`}
+                      />
+                    ))}
+                  </Stack>
+                  <Stack direction="row">
+                    <Button
+                      startIcon={<FaPlay />}
+                      variant="contained"
                       color="secondary"
-                      variant="outlined"
-                      size="small"
-                      key={`movie-${movie.id}-genre-chip-${genre}`}
-                    />
-                  ))}
-                </Stack>
-                <Stack direction="row">
-                  <Button
-                    startIcon={<FaPlay />}
-                    variant="contained"
-                    color="secondary"
-                    size="medium"
-                  >
-                    Play
-                  </Button>
-                  <IconButton
-                    size="medium"
-                    aria-label="add to my list"
-                    sx={{
-                      borderColor: (theme) => theme.palette.grey.A700,
-                      color: "#fff",
-                    }}
-                  >
-                    <IoIosAddCircleOutline size="20px" fill="#fff" />
-                  </IconButton>
-                  <IconButton
-                    size="medium"
-                    aria-label="like"
-                    sx={{
-                      borderColor: (theme) => theme.palette.grey.A700,
-                      color: "#fff",
-                    }}
-                  >
-                    <SlLike size="20px" fill="#fff" />
-                  </IconButton>
-                </Stack>
-              </Box>
-            )}
-          </Stack>
-          <MovieActorsList movieId={movie?.imdbid}></MovieActorsList>
-        </Paper>
+                      size="medium"
+                    >
+                      Play
+                    </Button>
+                    <IconButton
+                      size="medium"
+                      aria-label="add to my list"
+                      sx={{
+                        borderColor: (theme) => theme.palette.grey.A700,
+                        color: "#fff",
+                      }}
+                    >
+                      <IoIosAddCircleOutline size="20px" fill="#fff" />
+                    </IconButton>
+                    <IconButton
+                      size="medium"
+                      aria-label="like"
+                      sx={{
+                        borderColor: (theme) => theme.palette.grey.A700,
+                        color: "#fff",
+                      }}
+                    >
+                      <SlLike size="20px" fill="#fff" />
+                    </IconButton>
+                  </Stack>
+                </Box>
+              )}
+            </Stack>
+            <MovieActorsList movieId={movie?.imdbid}></MovieActorsList>
+          </Box>
+        </Box>
       </Container>
     </AppLayout>
   );
