@@ -31,7 +31,7 @@ export function AppMovies() {
               <Skeleton sx={{ width: "250px", minHeight: "300px" }}></Skeleton>
             ) : null}
             {data?.map((v) => (
-              <MovieItem movie={v} />
+              <MovieItem movie={v} key={"movie-search-list-item-" + v.imdbid} />
             ))}
           </Box>
         </Container>

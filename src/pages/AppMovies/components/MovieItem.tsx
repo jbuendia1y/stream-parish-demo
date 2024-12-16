@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 export function MovieItem({ movie }: { movie: Movie }) {
   return (
-    <Link to={"movies/" + movie.id}>
+    <Link to={"/movies/" + movie.imdbid}>
       <Paper
         component="img"
         src={movie.image}

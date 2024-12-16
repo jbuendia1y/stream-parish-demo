@@ -17,7 +17,7 @@ export const AuthProvider = (props: PropsWithChildren) => {
   const [user, setUser] = useState<UserStateType>(UserLoading);
 
   useEffect(() => {
-    const sub = onAuthStateChanged(auth, async (u) => {
+    const unsubscribe = onAuthStateChanged(auth, async (u) => {
       if (!u) {
         setUser(UserNotExist);
         return;
@@ -39,11 +39,12 @@ export const AuthProvider = (props: PropsWithChildren) => {
       setUser(userData);
     });
     return () => {
-      sub();
+      unsubscribe();
     };
   }, []);
 
   const login: AuthCtxValueType["login"] = (email, password) => {
+    setUser(UserLoading);
     return authentication.current.login(email, password);
   };
 
@@ -52,6 +53,7 @@ export const AuthProvider = (props: PropsWithChildren) => {
   };
 
   const loginWithGoogle: AuthCtxValueType["loginWithGoogle"] = () => {
+    setUser(UserLoading);
     return authentication.current.loginWithGoogle();
   };
 

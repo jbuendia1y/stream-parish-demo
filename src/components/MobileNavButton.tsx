@@ -63,7 +63,7 @@ export function MobileNavButton() {
           display: { xs: "block", lg: "none" },
         }}
       >
-        <MenuItem component={Link} to="/">
+        <MenuItem component={Link} to="/home">
           Inicio
         </MenuItem>
         <MenuItem component={Link} to="/movies">
